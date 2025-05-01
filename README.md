@@ -31,7 +31,7 @@ Installation and Usage
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/restaurant-chatbot-ui.git
+  https://github.com/harshkalirawana/zomato_assignment/tree/main/zomato
    cd restaurant-chatbot-ui
 ````
 
