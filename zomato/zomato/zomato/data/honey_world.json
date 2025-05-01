@@ -1,0 +1,880 @@
+
+{
+    "restaurant_name": "Honey World",
+    "location": "561/443, Gaikat, IIT Kharagpur, Kharagpur",
+    "operating_hours": "12midnight – 12:30am, 12noon – 10:45pm (Today)",
+    "contact_info": {
+      "phone": "+918597776744"
+    },
+    "menu_items": [
+      {
+        "name": "Cream Of Mushroom Soup",
+        "description": "Button Mushroom Sautee with Fresh Garlic & Chopped Onion Infused in Rich Cream",
+        "price": 170
+      },
+      {
+        "name": "Cream Of Tomato",
+        "description": "Perfect Flavorful Sweet Fresh,Tomato Blend With Cream And Secret Spices",
+        "price": 140
+      },
+      {
+        "name": "Hot-N-Sour Soup",
+        "description": "Spicy Hot Soup Made With Mixed Vegetables",
+        "price": 140
+      },
+      {
+        "name": "Lemon Cilantro Soup",
+        "description": "Refreshing Combination Of Lemon And Fresh Corriander along With Nutritious Veggies",
+        "price": 170
+      },
+      {
+        "name": "Sweet Corn Soup",
+        "description": "Indo-Chinese Style Soup, Delicious Creamy corn made With Herbs And Spices",
+        "price": 150
+      },
+      {
+        "name": "Veg Ball Soup (TCR Special)",
+        "description": "Veg Dumpling Clear Soup",
+        "price": 140
+      },
+      {
+        "name": "Veg Clear Soup",
+        "description": "Light Soup Prepared With Carrot, Beans and Button Mushroom",
+        "price": 130
+      },
+      {
+        "name": "Veg Manchow Soup",
+        "description": "Dark Brown Soup With fresh Vegetables Flavored With Soya Sauce, Garlic And Chili-Pepper",
+        "price": 140
+      },
+      {
+        "name": "Chicken Clear Soup",
+        "description": "Light Soup Prepared With Carrot, Beans, Button Mushroom & Shredded Chicken",
+        "price": 150
+      },
+      {
+        "name": "Chicken Hot-n-sour",
+        "description": "Spicy Hot Soup Made With Mixed Vegetable And Shredded Chicken",
+        "price": 170
+      },
+      {
+        "name": "Chicken Manchow",
+        "description": "Dark Brown Soup With Shredded Chicken Flavored With Soya Sauce, Garlic And Chili ... read more",
+        "price": 170
+      },
+      {
+        "name": "Chicken Sweet Corn",
+        "description": "Indo-Chinese Style Soup, Delicious Creamy Corn Infused With Herbs, Spices And Shredded Chicken",
+        "price": 170
+      },
+      {
+        "name": "Curry Room Special Soup",
+        "description": "The Best Combination of Chicken, Mutton,Shrimps and Fish with Secret Spices Of Curry ... read more",
+        "price": 210
+      },
+      {
+        "name": "Thai Soup",
+        "description": "Thai Inspired Soup Is Full Of Chunks Of Tender Chicken In Addition Of ... read more",
+        "price": 200
+      },
+      {
+        "name": "Achari Paneer Tikka",
+        "description": "Cottage Cheese Marinated in Ginger, Pickle, Yogurt, Baked in Tandoor Served with ... read more",
+        "price": 300
+      },
+      {
+        "name": "Hara Bhara Kabab",
+        "description": "Vegetarian Sheekh Kebab with Juicy Corn Kernel with Fresh Herbs Served Char-Grilled ... read more",
+        "price": 280
+      },
+      {
+        "name": "Hariyali Paneer Tikka",
+        "description": "Perfect Combination of Cream, Fresh Palak Coated on Cottage Cheese and Cha-Grilled ... read more",
+        "price": 310
+      },
+      {
+        "name": "Mushroom Malai Kebab",
+        "description": "Fresh Button Mushroom Stuffed with Mixture of Cottage Cheese, Cream in Yellow ... read more",
+        "price": 320
+      },
+      {
+        "name": "Nawabi Paneer Tikka",
+        "description": "Perfect Combination of Cream, Cashew Nut and Shahi Masala Coated on Cottage ... read more",
+        "price": 310
+      },
+      {
+        "name": "Rajasthani Paneer Tikka",
+        "description": "Cottage Cheese Marinated in Ginger, Rajasthani Red Chilli Paste, Yogurt, Baked in ... read more",
+        "price": 310
+      },
+      {
+        "name": "American Corn Salt And Pepper",
+        "description": "Batter fried corn Kernels Stir fried , tossed with fresh vegetables and perfectly ... read more",
+        "price": 280
+      },
+      {
+        "name": "Chilli Mushroom Dry",
+        "description": "Crispy Batter fried Mushroom Sautee in low heat with Spicy Green Chilli ... read more",
+        "price": 290
+      },
+      {
+        "name": "Chilli Paneer Dry",
+        "description": "Crispy Batter Fried Paneer Sautee with Onion, Bell Pepper tossed in slightly ... read more",
+        "price": 300
+      },
+      {
+        "name": "Crispy Chili Mushroom",
+        "description": "Crispy Batter fried Mushroom Sautee with Spicy Green Chilli, Onion, Bell Pepper tossed ... read more",
+        "price": 290
+      },
+      {
+        "name": "Crispy Chilli American Corn",
+        "description": "Batter fried corn Kernels Stir fried , tossed with fresh vegetables and perfectly ... read more",
+        "price": 290
+      },
+      {
+        "name": "Crispy Chilli Baby Corn",
+        "description": "Crunchy, Crispy and Wonderfully flavourful Chilli Babycorn tossed in Sweet & Spicy Sauce",
+        "price": 290
+      },
+      {
+        "name": "Honey Chilli Potato",
+        "description": "Crispy Potato Fingers deep fried tossed in Sweet & Spicy Chiili Garlic Sauce",
+        "price": 260
+      },
+      {
+        "name": "Mushroom Baby Corn (s&p)",
+        "description": "Crunchy, Crispy Babycorn & Garden Fresh Mushroom fried till golden brown, tossed in ... read more",
+        "price": 290
+      },
+      {
+        "name": "Paneer Finger",
+        "description": "Fresh Paneer Strips mix With Secret Chinese Sauce, Coated with Bread Crumbs, ... read more",
+        "price": 300
+      },
+      {
+        "name": "Schezwan Mushroom (dry)",
+        "description": "Crispy Batter fried Mushroom tossed in Super aromatic & Spicy Szechwan Sauce",
+        "price": 290
+      },
+      {
+        "name": "Veg Manchurian Dry",
+        "description": "Fresh Veggies Crunchy balls deep fried tossed in Sweet, Spicy & Tangy ... read more",
+        "price": 260
+      },
+      {
+        "name": "Veg Spring Roll",
+        "description": "Popular Chinese Snacks, Crisy Rolls filled with a Savory mixed vegetables Stuffing ... read more",
+        "price": 240
+      },
+      {
+        "name": "Bharwan Afghani Tangri",
+        "description": "Tender Chicken Leg Pcs with Secret Spices infused with Charcoal Flavour Served ... read more",
+        "price": 350
+      },
+      {
+        "name": "Chicken Seekh Kabab",
+        "description": "Dried Fenugreek Flavored Chicken Kebab marinated in Yogurt Garlic and very Mild ... read more",
+        "price": 350
+      },
+      {
+        "name": "Curry Room Platter",
+        "description": "3pcs of Murgh Angara , 3Pcs of Haryali Murgh Tikka & 3pcs of ... read more",
+        "price": 570
+      },
+      {
+        "name": "Fish Amritsari",
+        "description": "Named after the City where it was Originated, Fish Coated in Gram ... read more",
+        "price": 410
+      },
+      {
+        "name": "Hariyali Chiken Tikka",
+        "description": "Boneless Chunks of Chicken Marinated in Fresh Palak, Garlic, Yogurt & Indian ... read more",
+        "price": 320
+      },
+      {
+        "name": "Mahi De Sholey",
+        "description": "Fish Cooked in Tandoor Marinaded with Chilly, Cumin and Corriander and ... read more",
+        "price": 410
+      },
+      {
+        "name": "Mahi Malai Kebab",
+        "description": "Fresh Basa Fish Marinated in a Blend of Herbs and Spices Flavored ... read more",
+        "price": 440
+      },
+      {
+        "name": "Murgh Angara",
+        "description": "Boneless Chunks of Chicken Marinated in Chilly Flakes, Garlic yoghurt Char-Grilled to ... read more",
+        "price": 310
+      },
+      {
+        "name": "Murgh Lasuni Tikka",
+        "description": "Boneless Chunks of Chicken Marinated in Garlic, yoghurt Char-Grilled to Perfection Served ... read more",
+        "price": 330
+      },
+      {
+        "name": "Murgh Malai Kebab",
+        "description": "Boneless Chunks of Chicken Marinated in Fresh Cream, Garlic, Yogurt Char-Grilled to ... read more",
+        "price": 340
+      },
+      {
+        "name": "Tandoori Chicken",
+        "description": "Traditional Indian Starter, Whole Chicken Marinated in Yogurt and Indian ... read more",
+        "price": 330
+      },
+      {
+        "name": "Barbecue Prawn",
+        "description": "Golden Fried Tiger Prawns tossed in Home Made Smoky BBQ Sauce",
+        "price": 510
+      },
+      {
+        "name": "Butter Garlic Chilli Fish",
+        "description": "Fresh Basa Fish Grilled in Butter Garlic Sauce tossed with exotic vegetables",
+        "price": 420
+      },
+      {
+        "name": "Butter Garlic Prawn",
+        "description": "Tiger Prawn Grilled in Butter Garlic Sauce tossed with exotic vegetables",
+        "price": 510
+      },
+      {
+        "name": "Chicken 65",
+        "description": "Popular South Indian Dish, Chicken sautee in fresh Curry leaves and Green ... read more",
+        "price": 330
+      },
+      {
+        "name": "Chicken Lolipop",
+        "description": "Popular Indo Chinese appetizer marinated and batter fried until crisp",
+        "price": 310
+      },
+      {
+        "name": "Chicken Nuggets",
+        "description": "Chicken chunks coated in crums and deerp fried",
+        "price": 310
+      },
+      {
+        "name": "Chilli Garlic Pepper Chicken",
+        "description": "Soft & Tender Chicken tossed in freshly chopped Garlic & Black Pepper",
+        "price": 330
+      },
+      {
+        "name": "Chilly Chicken Dry",
+        "description": "Crispy fried chicken sautee with Garlic, Onion , Capsicum tossed in ... read more",
+        "price": 320
+      },
+      {
+        "name": "Congi Crispy Chicken",
+        "description": "Chicken Strips golden fried and tossed with Sweet & Spicy Chinese Sauce",
+        "price": 320
+      },
+      {
+        "name": "Dragon Chicken",
+        "description": "Batter Fried Crispy Chicken Strips tossed in Sweet, Spicy & Sour Sauce with ... read more",
+        "price": 320
+      },
+      {
+        "name": "Drum Of Heaven",
+        "description": "Crispy fried Chicken Lollipop tossed in sweet & spicy sauce and fresh ... read more",
+        "price": 340
+      },
+      {
+        "name": "Fish Finger",
+        "description": "Crispy fried Chicken Lollipop tossed in sweet & spicy sauce and fresh ... read more",
+        "price": 380
+      },
+      {
+        "name": "Honey Chilli Chicken Dry",
+        "description": "Soft & Tender Chicken Cubes fried till Golden Brown , tossed in ... read more",
+        "price": 320
+      },
+      {
+        "name": "Pan Fried Chilli Fish",
+        "description": "Fresh Basa Fish marinated in spicy brunt Garlic Sauce pan fried till ... read more",
+        "price": 430
+      },
+      {
+        "name": "Thai Dry Chilly Chicken",
+        "description": "Crispy fried chicken tossed in Garlic, Onion , Capsicum and Rich Thai ... read more",
+        "price": 330
+      },
+      {
+        "name": "Diwani Handi",
+        "description": "Tradional Hyderabadi Style Mix Veg",
+        "price": 290
+      },
+      {
+        "name": "Kadai Babycorn& Mushroom",
+        "description": "Great Combination of Baby Corn & Mushroom, Mixed in Home Made Gravy & ... read more",
+        "price": 300
+      },
+      {
+        "name": "Kadai Veg",
+        "description": "Garden Fresh Mix Veg Mixed with Home Made Gravy Cooked in Kadai Masala",
+        "price": 230
+      },
+      {
+        "name": "Kadhai Paneer",
+        "description": "Malai Paneer Mixed with Home Made Gravy Cooked in Kadai Masala",
+        "price": 320
+      },
+      {
+        "name": "Malai Kofta",
+        "description": "Malai Paneer Dumpling Stuffed with Resin and Spinach Cooked in Home ... read more",
+        "price": 330
+      },
+      {
+        "name": "Malai Mashroom",
+        "description": "Fresh Farmed Button Mushroom Dish made in Rich Creamy Gravy",
+        "price": 330
+      },
+      {
+        "name": "Mattar Paneer",
+        "description": "Semi Dry Delicious Dish made with Green Peas, Malai Paneer, Onion & ... read more",
+        "price": 300
+      },
+      {
+        "name": "Methi Corn Malai",
+        "description": "Assorted Corn Sautee with Fresh Methi Leaves Cooked in Home Made Gravy & ... read more",
+        "price": 270
+      },
+      {
+        "name": "Mushroom Do Payaza",
+        "description": "Delightful Dish, Button Mushroom Cooked in Tomato Gravy, Caramelized Onion's & Indain Spices",
+        "price": 280
+      },
+      {
+        "name": "Mushroom Masala",
+        "descriptionQUF": "Button Mushroom Sautee with Fresh Garlic & Chopped Onion Cooked in Home Made ... read more",
+        "price": 300
+      },
+      {
+        "name": "Navratan Korma",
+        "description": "Rich Luxurious Veg Curry Dish Made with Mix Vegetables and lot of Dry ... read more",
+        "price": 280
+      },
+      {
+        "name": "Palak Paneer",
+        "description": "Malai Paneer Marinated in Fresh Palak Cooked in Home Made Creamy, Buttery ... read more",
+        "price": 320
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "description": "Malai Paneer Mix with Butter & Cream Sautee with Fresh Onion & ... read more",
+        "price": 330
+      },
+      {
+        "name": "Paneer Do Payaza",
+        "description": "Delightful Dish, Malai Paneer Cooked in Tomato Gravy, Caramelized Onion's & Indain ... read more",
+        "price": 320
+      },
+      {
+        "name": "Paneer Matar Makai Masala",
+        "description": "Malai Paneer Char-Grilled and Cooked in Aromatic Spicy Gravy",
+        "price": 330
+      },
+      {
+        "name": "Paneer Tikka Lababdar",
+        "description": "Curry Room Special, Malai Paneer Cooked in Home Made Signature Gravy & ... read more",
+        "price": 350
+      },
+      {
+        "name": "Pindi Cholee",
+        "description": "Punjabi Style Chole Masala",
+        "price": 230
+      },
+      {
+        "name": "Shahi Paneer",
+        "description": "Malai Paneer Cooked in Creamy Home Made Gravy Made of Onion, Cream, ... read more",
+        "price": 350
+      },
+      {
+        "name": "Veg Jhalfrazi",
+        "description": null,
+        "price": 230
+      },
+      {
+        "name": "Vegetable Kofta",
+        "description": "Home Made Mix Vegetable Kofta Cooked in Home Made Makhani & Kaju ... read more",
+        "price": 320
+      },
+      {
+        "name": "Aloo Jeera (dry)",
+        "description": "Potato tossed with Cumin Seeds in High Flame",
+        "price": 170
+      },
+      {
+        "name": "Aloo Matar Gravy",
+        "description": "Potato Cooked with Fresh Green Peas and Secret Spices",
+        "price": 200
+      },
+      {
+        "name": "Aloo Methi (dry)",
+        "description": "Potato tossed with Fenugreek leaves and Secret Spices",
+        "price": 200
+      },
+      {
+        "name": "Rampuri Aloo Gobhi",
+        "description": "Potato & Garden Fresh Cauliflower Cooked in Selected Indian Spices",
+        "price": 210
+      },
+      {
+        "name": "Bengali Dal Tadka (non Veg)",
+        "description": "Green Moong Dal & Channa Dal Sautee with Fresh Vegetables mix With Select ... read more",
+        "price": 190
+      },
+      {
+        "name": "Bengali Dal Tadka (veg)",
+        "description": "Green Moong Dal & Channa Dal Sautee with Fresh Vegetables mix With Select ... read more",
+        "price": 180
+      },
+      {
+        "name": "Dal Makhani",
+        "description": "Creamy and Buttery Home Made Dal Makhani Originating from Punjab resin of the ... read more",
+        "price": 250
+      },
+      {
+        "name": "Yellow Dal Fry",
+        "description": "A mix of Arhar Dal and Moong Dal tempered with Spices and Ghee ... read more",
+        "price": 170
+      },
+      {
+        "name": "Bengali Chicken Curry",
+        "description": "Traditional Popular and Age-Old Bengali style Chicken Curry that is Cooked with ... read more",
+        "price": 320
+      },
+      {
+        "name": "Bhuna Murgha",
+        "description": "Bhuna Murgh is a Dry Preparation slow Roasted Chicken Infused with Aromatic ... read more",
+        "price": 340
+      },
+      {
+        "name": "Chicken Kohlapuri",
+        "description": "Chicken Stripped Tossed in Home Made Gravy, Indian Spices and Fresh Vegetables",
+        "price": 330
+      },
+      {
+        "name": "Chicken Reizala",
+        "description": "Creamy & Rich Mughlai Chicken Curry Cooked in Yogurt, Kaju, Poppy Seeds ... read more",
+        "price": 410
+      },
+      {
+        "name": "Chooza Do Piyazza",
+        "description": "Delightful Dish, Tender Chicken Cooked in Tomato Gravy, Caramelized Onion's & Indain ... read more",
+        "price": 330
+      },
+      {
+        "name": "Handi Murgh",
+        "description": "Tradional North Indian Dish, Slow Cooked in Copper Handi with Aromatic Spices, ... read more",
+        "price": 380
+      },
+      {
+        "name": "Kadhai Murgh",
+        "description": "With Bone Tender Chicken Mixed with Home Made Gravy Cooked in Kadai ... read more",
+        "price": 330
+      },
+      {
+        "name": "Murgh Korma",
+        "description": "With Bone Chicken Cooked in Home Made Gravy and Aromatic Select Indian ... read more",
+        "price": 370
+      },
+      {
+        "name": "Murgh Makhani",
+        "description": "Soft & Tender Chicken Pcs Marinate in Creamy Tangy and Rich Tomato ... read more",
+        "price": 380
+      },
+      {
+        "name": "Murgh Makhanwala",
+        "description": "Chicken Cooked in a Clay Oven and finished in a Creamy and ... read more",
+        "price": 440
+      },
+      {
+        "name": "Murgh Saagwala",
+        "description": "Chicken Seasoned with Indian Spices finished with Creamy Spinach Gravy & Ghee",
+        "price": 320
+      },
+      {
+        "name": "Murgh Tikka Lababdar",
+        "description": "Curry Room Special, Juicy & Tender Chicken Cooked in Home Made Signature ... read more",
+        "price": 430
+      },
+      {
+        "name": "Murgh Tikka Masala",
+        "description": "Char- Grilled Juicy Tender Chicken Cooked in Home Made Tomato Gravy and ... read more",
+        "price": 410
+      },
+      {
+        "name": "Punjabi Chicken Bharta",
+        "description": "Shredded Chicken Cooked in Spicy Creamy Gravy, Garnished with Shredded Boiled Egg",
+        "price": 380
+      },
+      {
+        "name": "Sahi Murgh",
+        "description": "Tender Chicken Cooked in Creamy Home Made Gravy Made of Onion, Cream, ... read more",
+        "price": 380
+      },
+      {
+        "name": "Banjara Mutton Curry",
+        "description": "Mild Spicy Sindhi Speciality Mutton Curry",
+        "price": 530
+      },
+      {
+        "name": "Champaran Style Mutton New",
+        "description": "Origin From Bihar, Tender Mutton Pcs Cooked in Clay Pot with Load ... read more",
+        "price": 580
+      },
+      {
+        "name": "Golbri Kosha Mangsho",
+        "description": "Tender Mutton Pcs Slow Cooked in Flavourful Indian Spices Cooked without Water ... read more",
+        "price": 530
+      },
+      {
+        "name": "Lal Maas",
+        "description": "Lal Maas is a Fiery Rajasthani Meat Curry, Lamb Cooked in a ... read more",
+        "price": 550
+      },
+      {
+        "name": "Mutton Masala",
+        "description": "Dry Mutton Preparation with perfect combination of Dark Indian Spices",
+        "price": 550
+      },
+      {
+        "name": "Mutton Rara",
+        "description": "Rara is a very Unique Mutton Recipe as it Combines the Tender ... read more",
+        "price": 600
+      },
+      {
+        "name": "Sahi Mutton Korma",
+        "description": "Tender Mutton Pcs Cooked in Creamy Home Made Gravy Made of Onion, ... read more",
+        "price": 560
+      },
+      {
+        "name": "Fish Masala",
+        "description": "Fresh Basa Fish Cooked In Home Made Gravy and Indian Masala",
+        "price": 420
+      },
+      {
+        "name": "Mahi La Jawab",
+        "description": "Fresh Basa Fish Fillet Cooked in Poppy Seeds, Home Made Gravy & ... read more",
+        "price": 420
+      },
+      {
+        "name": "Prawn Malai Curry",
+        "description": "Prawn Masala Curry is a Bengali Style Curry made from Coconut Milk ... read more",
+        "price": 530
+      },
+      {
+        "name": "Chilli Mushroom Gravy",
+        "description": "Batter Fried Crispy Mushroom tossed with fresh vegetables and perfectly balanced Sweet & ... read more",
+        "price": 270
+      },
+      {
+        "name": "Chilli Paneer Gravy",
+        "description": "Crispy Fried Paneer tossed in Spicy Red Chilli Sauce cooked in Half ... read more",
+        "price": 320
+      },
+      {
+        "name": "Paneer Manchurian Gravy",
+        "description": "Batter Fried Crispy Paneer tossed in Sweet, Spicy & Tangy Manchurian Sauce ... read more",
+        "price": 330
+      },
+      {
+        "name": "Szechwan Mushroom Gravy",
+        "description": "Crispy Fried Mushroom tossed in Super Aromatic & Spicy Szechwan Sauce",
+        "price": 280
+      },
+      {
+        "name": "Szechwan Paneer Gravy",
+        "description": "Batter Fried Crispy Paneer tossed in Super Aromatic & Spicy Szechwan Sauce",
+        "price": 330
+      },
+      {
+        "name": "Veg Manchurian Gravy",
+        "description": "Fresh Veggies Crunchy balls deep fried tossed in Sweet, Spicy & Tangy ... read more",
+        "price": 260
+      },
+      {
+        "name": "Chicken In Hot Garlic Sauce",
+        "description": "Crispy fried chicken sautee with Garlic, Onion , Capsicum tossed in Spicy ... read more",
+        "price": 330
+      },
+      {
+        "name": "Chicken In Sweet Chilli Sauce",
+        "description": "Crispy fried chicken sautee with Garlic, Onion , Capsicum tossed in Sweet ... read more",
+        "price": 330
+      },
+      {
+        "name": "Chicken Manchurian Gravy",
+        "description": "Fresh Chicken Crunchy balls deep fried tossed in Sweet, Spicy & Tangy ... read more",
+        "price": 330
+      },
+      {
+        "name": "Chiili Fish Gravy",
+        "description": "Fresh Basa Fish tossed in Spicy Red Chilli Sauce cooked in Half ... read more",
+        "price": 410
+      },
+      {
+        "name": "Chilli Chicken Gravy",
+        "description": "Crispy fried chicken sautee with Garlic, Onion , Capsicum tossed in ... read more",
+        "price": 320
+      },
+      {
+        "name": "Chilli Prawn Gravy",
+        "description": "Tiger Prawn's Coated Fried tossed in Spicy Red Chilli Sauce Cooked in ... read more",
+        "price": 500
+      },
+      {
+        "name": "Fish In Hot Garlic Sauce",
+        "description": "Crispy Fried Fresh Basa Fish Sautee with Garlic, Onion , Capsicum tossed ... read more",
+        "price": 410
+      },
+      {
+        "name": "Hongkong Chicken",
+        "description": null,
+        "price": null
+      },
+      {
+        "name": "Hunan Chicken",
+        "description": "Fresh Stir Fried Chicken & Vegetables tossed in authentic Spicy Chinese Hunan ... read more",
+        "price": 340
+      },
+      {
+        "name": "Kumpao Chicken",
+        "description": "Stir fried Chicken tossed in Sweet, Spicy & Savory Chinese Sauce",
+        "price": 350
+      },
+      {
+        "name": "Lemon Chicken",
+        "description": null,
+        "price": null
+      },
+      {
+        "name": "Lemon Fish",
+        "description": null,
+        "price": null
+      },
+      {
+        "name": "Prawn In Hot Garlic Sauce",
+        "description": "Jumbo Tiger Prawn's Sautee with Garlic, Onion , Capsicum tossed in Spicy ... read more",
+        "price": 500
+      },
+      {
+        "name": "Szechwan Chicken Gravy",
+        "description": "Crispy Batter fried Boneless Chicken tossed in Super Aromatic & Spicy Szechwan ... read more",
+        "price": 330
+      },
+      {
+        "name": "American Chopsey Veg",
+        "description": null,
+        "price": 250
+      },
+      {
+        "name": "Mushroom Pepper Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables, Mushroom, Chinese Spices & Black ... read more",
+        "price": 210
+      },
+      {
+        "name": "Singapore Style Veg Noodles",
+        "description": "Stir Fried Fresh Yellow Noodles tossed with Fresh Vegetables & Singapore Spices",
+        "price": 210
+      },
+      {
+        "name": "Szechwan Veg Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables & Super Aromatic Szechwan Sauce",
+        "price": 200
+      },
+      {
+        "name": "Veg Chilli Garlic Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables, Chilli Flakes, Chinese Spices & ... read more",
+        "price": 200
+      },
+      {
+        "name": "Veg Gravy Noodles",
+        "description": "Thai Stir Fried Noodles Mix with Exotic Vegetables, Thick Gravy Sauce & Chinese ... read more",
+        "price": 220
+      },
+      {
+        "name": "Veg Hakka Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables & Chinese Spices",
+        "price": 180
+      },
+      {
+        "name": "American Chopsey Nonveg",
+        "description": null,
+        "price": 300
+      },
+      {
+        "name": "Chicken Chilli Garlic Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables, Chicken Strips, Chilli Flakes, Chinese ... read more",
+        "price": 240
+      },
+      {
+        "name": "Curry Room Special Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables, Mutton, Chicken, Egg, Shrimps & ... read more",
+        "price": 330
+      },
+      {
+        "name": "Egg Hakka Noodl",
+        "description": null,
+        "price": 200
+      },
+      {
+        "name": "Hakka Noodles Non Veg",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables, Chicken Strips & Chinese Spices",
+        "price": 200
+      },
+      {
+        "name": "Mix Gravy Noodles",
+        "description": "Thai Stir Fried Noodles Mix with Exotic Vegetables,Egg, Chicken, Shrimps, Thick Gravy Sauce ... read more",
+        "price": 270
+      },
+      {
+        "name": "Mix Non Veg Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables, Egg, Chicken, Shrimps & Chinese ... read more",
+        "price": 260
+      },
+      {
+        "name": "Pan Fried Chicken Noodles",
+        "description": "Fried Noodles Topped with Stir Fried Exotic Vegetables, Egg, Chicken, Shrimps, Thick Gravy ... read more",
+        "price": 270
+      },
+      {
+        "name": "Szechwan Chicken Noodles",
+        "description": "Stir Fried Fresh Noodles tossed with Fresh Vegetables, Chicken Strips & Super Aromatic ... read more",
+        "price": 250
+      },
+      {
+        "name": "Korean Veg Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables & Korean Spices",
+        "price": 240
+      },
+      {
+        "name": "Szechwan Veg Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables & Super Aromatic ... read more",
+        "price": 200
+      },
+      {
+        "name": "Tomato Mushroom Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Tomato, Mushroom & Chinese ... read more",
+        "price": 200
+      },
+      {
+        "name": "Veg Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables & Chinese Spices",
+        "price": 190
+      },
+      {
+        "name": "Chicken Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables, Chicken Strips & ... read more",
+        "price": 240
+      },
+      {
+        "name": "Egg Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables, Egg & Chinese ... read more",
+        "price": 210
+      },
+      {
+        "name": "Hongkong Chicken Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables, Chicken Strips & ... read more",
+        "price": 300
+      },
+      {
+        "name": "Mix Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables, Egg, Chicken, Shrimps ... read more",
+        "price": 300
+      },
+      {
+        "name": "Mix Szechwan Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables, Egg, Chicken, Shrimps ... read more",
+        "price": 300
+      },
+      {
+        "name": "Special Tcr Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables, Mutton, Chicken, Egg, ... read more",
+        "price": 340
+      },
+      {
+        "name": "Szechwan Chicken Fried Rice",
+        "description": "Stir Fried Long Grain Bashmati Rice tossed with Fresh Vegetables, Chicken Strips & ... read more",
+        "price": 250
+      },
+      {
+        "name": "Cilantro Cottage Cheese",
+        "description": "Fresh Paneer Cubes Tossed in Fresh Cilantro Sauce & Secret Chinese Spices",
+        "price": 289
+      },
+      {
+        "name": "Dahi Ke Kebab",
+        "description": "Vegetarian North Indian Kababs Made with Yogurt , spices & Herbs , Served ... read more",
+        "price": 270
+      },
+      {
+        "name": "Malai Panner Tikka",
+        "description": "Cottage Cheese Marinated in fresh cream, Yogurt, Baked in Tandoor Served with ... read more",
+        "price": 320
+      },
+      {
+        "name": "Spinach Corn Roll",
+        "description": "Crispy Rolls Filled With A Savory Mixed Vegetable Stuffing , Served With ... read more",
+        "price": 260
+      },
+      {
+        "name": "Champaran Style Mutton",
+        "description": "Orgin From Bihar, Tender Mutton Pcs Cooked in Clay Pot with Load ... read more",
+        "price": 580
+      },
+      {
+        "name": "Chicken Chap",
+        "description": "Classic Delicious Mughlai style Marinated Chicken Leg Piece Slowly Cooked In Rich Thick ... read more",
+        "price": 299
+      },
+      {
+        "name": "Chicken In Black Bean Sauce",
+        "description": "Crispy Fried Chicken Sautee With Veggies And Tossed In Black Bean Sauce",
+        "price": 299
+      },
+      {
+        "name": "Mutton In Black Bean Sauce",
+        "description": "Tender Boneless Mutton Cubes tossed in Fermented Black Bean Sauce with Fresh ... read more",
+        "price": 449
+      },
+      {
+        "name": "Mutton Roasted In Devil Sauce",
+        "description": "Juicy Boneless Mutton Cubes tossed in Classic Home Made Chili Sauce Sautee ... read more",
+        "price": 449
+      }
+    ],
+    "special_features": "Humble Staff, Decor, Sanitised Service, Delicious Taste, Ambience, Portion",
+    "reviews": [
+      {
+        "star_rating": "5",
+        "reviewer_name": "BISWAJIT",
+        "comment": "very good packing less oily with Good taste",
+        "date": "yesterday"
+      },
+      {
+        "star_rating": "5",
+        "reviewer_name": "Kallol",
+        "comment": "Excellent food.",
+        "date": "3 days ago"
+      },
+      {
+        "star_rating": "5",
+        "reviewer_name": "Pavithra Parthasarathy",
+        "comment": null,
+        "date": "5 days ago"
+      },
+      {
+        "star_rating": "3",
+        "reviewer_name": "Subhasis Pattnaik",
+        "comment": "noodles was ok ok not that good",
+        "date": "6 days ago"
+      },
+      {
+        "star_rating": "1",
+        "reviewer_name": "Trina Teeny",
+        "comment": "The chicken kadai masala ordered was stale and uncooked",
+        "date": "12 days ago"
+      }
+    ]
+  }
+  
