@@ -1,0 +1,655 @@
+{
+  "restaurant_name": "Smart Pind",
+  "location": "Foot Path, Puri Gate, Ward no: 27 Hijli, Kharagpur, West Bengal, IIT Kharagpur, Kharagpur",
+  "operating_hours": "11am – 11pm (Today)",
+  "contact_info": {
+    "phone": "+917419966000",
+    "address": "Foot Path, Puri Gate, Ward no: 27 Hijli, Kharagpur, West Bengal, IIT Kharagpur, Kharagpur"
+  },
+  "menu_items": [
+    {
+      "name": "Chicken Biryani",
+      "description": "Richly spiced rice dish with tender chicken pieces",
+      "price": 263
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": "Savory and satisfying dish with tender chicken",
+      "price": 250
+    },
+    {
+      "name": "Chicken Hyderabadi Biryani",
+      "description": "Flavorful and aromatic rice dish",
+      "price": 282
+    },
+    {
+      "name": "Egg Biryani",
+      "price": 167
+    },
+    {
+      "name": "Egg Fried Rice",
+      "price": 138
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 113
+    },
+    {
+      "name": "Navratan Pulao",
+      "description": "Royal rice dish with a vibrant mix",
+      "price": 169
+    },
+    {
+      "name": "Plain Rice",
+      "price": 100
+    },
+    {
+      "name": "Veg Biryani",
+      "description": "Delightful rice dish with a medley of vegetables",
+      "price": 153
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 125
+    },
+    {
+      "name": "Veg Hyderabadi Biryani",
+      "description": "Fragrant rice dish with vegetables",
+      "price": 167
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "Fragrant and colorful rice dish",
+      "price": 125
+    },
+    {
+      "name": "Aloo Gobhi",
+      "description": "Savory mix of potatoes and cauliflower",
+      "price": 100
+    },
+    {
+      "name": "Aloo Jeera",
+      "description": "Potatoes cooked with cumin seeds and spices",
+      "price": 100
+    },
+    {
+      "name": "Chana Dal",
+      "description": "Split chickpeas in a spicy and tangy gravy",
+      "price": 106
+    },
+    {
+      "name": "Chana Masala",
+      "description": "Chickpeas in a rich and spicy gravy",
+      "price": 163
+    },
+    {
+      "name": "Chana Pindi",
+      "description": "Spicy chickpeas in a tangy gravy",
+      "price": 165
+    },
+    {
+      "name": "Chilli Paneer Gravy",
+      "description": "Paneer with bell peppers and onions in a spicy and tangy gravy",
+      "price": 225
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Lentils cooked with onions, tomatoes, and spices",
+      "price": 138
+    },
+    {
+      "name": "Dal Makhani",
+      "description": "Creamy blend of black lentils",
+      "price": 175
+    },
+    {
+      "name": "Dal Tadka",
+      "description": "Perfectly cooked lentils tempered with aromatic spices",
+      "price": 94
+    },
+    {
+      "name": "Dum Aloo",
+      "description": "Potatoes in a rich and creamy gravy",
+      "price": 169
+    },
+    {
+      "name": "Gobhi Masala",
+      "description": "Crisp cauliflower florets in a rich gravy",
+      "price": 169
+    },
+    {
+      "name": "Kadhai Paneer",
+      "description": "Paneer cubes stir-fried with bell peppers and onions",
+      "price": 163
+    },
+    {
+      "name": "Kadhai Soya Chap",
+      "description": "Soya chunks cooked with bell peppers, onions, and spices",
+      "price": 250
+    },
+    {
+      "name": "Kadhi",
+      "description": "Yogurt-based curry thickened with gram flour",
+      "price": 113
+    },
+    {
+      "name": "Malai Kofta",
+      "description": "Dumplings made with paneer, nuts, and creamy gravy",
+      "price": 244
+    },
+    {
+      "name": "Matar Paneer",
+      "description": "Paneer and sweet green peas in a gravy",
+      "price": 144
+    },
+    {
+      "name": "Mixed Veg",
+      "description": "Fresh seasonal vegetables cooked in a variety of styles",
+      "price": 182
+    },
+    {
+      "name": "Mix Veg (dry)",
+      "description": "Mixed vegetables stir-fried with spices",
+      "price": 140
+    },
+    {
+      "name": "Mushroom Masala",
+      "description": "Tender mushrooms in a rich, spiced tomato gravy",
+      "price": 144
+    },
+    {
+      "name": "Palak Corn",
+      "description": "Creamy and flavorful dish with spinach and sweet corn",
+      "price": 169
+    },
+    {
+      "name": "Palak Paneer",
+      "description": "Paneer cubes cooked in a smooth gravy",
+      "price": 250
+    },
+    {
+      "name": "Paneer Bhujji",
+      "description": "Spicy and flavorful dish with crumbled paneer, onions, and spices",
+      "price": 225
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "Paneer cubes cooked with bell peppers and onions",
+      "price": 169
+    },
+    {
+      "name": "Paneer Do Pyaaza",
+      "description": "Paneer cooked with onions and spices in a rich gravy",
+      "price": 275
+    },
+    {
+      "name": "Paneer Lababdar",
+      "description": "Paneer cubes in a rich and creamy tomato-based gravy",
+      "price": 300
+    },
+    {
+      "name": "Shahi Paneer",
+      "description": "Paneer cubes simmered in a creamy gravy",
+      "price": 169
+    },
+    {
+      "name": "Special Thali",
+      "description": "Platter with a variety of vegetarian dishes, rice, and bread",
+      "price": 262
+    },
+    {
+      "name": "Veg Manchurian Gravy",
+      "description": "Mixed vegetables in a spicy and tangy gravy",
+      "price": 275
+    },
+    {
+      "name": "Veg Thali",
+      "price": 237
+    },
+    {
+      "name": "Yello Dal",
+      "description": "Nutritious dish of lentils cooked with spices",
+      "price": 138
+    },
+    {
+      "name": "Butter Chicken",
+      "description": "Chicken pieces in a creamy and flavorful tomato-based gravy",
+      "price": 175
+    },
+    {
+      "name": "Butter Chicken Boneless",
+      "description": "Rich and creamy dish with tender chicken pieces",
+      "price": 175
+    },
+    {
+      "name": "Chicken Curry",
+      "description": "Timeless North Indian dish with tender chicken",
+      "price": 163
+    },
+    {
+      "name": "Chicken Korma",
+      "description": "Chicken slow-cooked in a creamy, spiced gravy",
+      "price": 163
+    },
+    {
+      "name": "Chicken Manchurian Gravy",
+      "description": "Fusion of flavors with juicy chicken",
+      "price": 271
+    },
+    {
+      "name": "Chili Chicken Gravy",
+      "description": "Bold and spicy dish with succulent chicken",
+      "price": 125
+    },
+    {
+      "name": "Egg Curry",
+      "description": "Perfectly boiled eggs simmered in a rich gravy",
+      "price": 75
+    },
+    {
+      "name": "Kadhai Chicken",
+      "description": "Succulent chicken pieces tossed in a spicy gravy",
+      "price": 175
+    },
+    {
+      "name": "Kadhai Chicken Boneless",
+      "description": "Tender chicken pieces in a vibrant, spicy gravy",
+      "price": 175
+    },
+    {
+      "name": "Smartpind Chicken",
+      "description": "Signature dish with tender, marinated chicken",
+      "price": 200
+    },
+    {
+      "name": "Tangri Chicken",
+      "description": "Juicy chicken drumsticks marinated in aromatic spices",
+      "price": 188
+    },
+    {
+      "name": "Baby Corn",
+      "description": "Crunchy and flavorful, perfect for snacking or stir-fries",
+      "price": 244
+    },
+    {
+      "name": "Chilli Paneer",
+      "description": "Spicy and flavorful dish with bell peppers and onions",
+      "price": 250
+    },
+    {
+      "name": "Finger Chips",
+      "description": "Crispy and golden-brown potato fries",
+      "price": 138
+    },
+    {
+      "name": "Honey Chilli Potato",
+      "description": "Sweet and spicy potato dish",
+      "price": 175
+    },
+    {
+      "name": "Macaroni",
+      "price": 125
+    },
+    {
+      "name": "Malai Paneer Tikka",
+      "description": "Creamy and flavorful paneer tikka with a rich marinade",
+      "price": 282
+    },
+    {
+      "name": "Mushroom Tikka",
+      "description": "Tender and succulent mushroom pieces with a spicy tikka marinade",
+      "price": 307
+    },
+    {
+      "name": "Paneer Tikka",
+      "description": "Tender and flavorful paneer pieces with a spicy tikka marinade",
+      "price": 250
+    },
+    {
+      "name": "Soya Achari Tikka",
+      "description": "Tangy and spicy soya tikka with achari spices",
+      "price": 213
+    },
+    {
+      "name": "Soya Malai Tikka",
+      "descriptionMultiplier": "Creamy and flavorful soya tikka with a rich marinade",
+      "price": 238
+    },
+    {
+      "name": "Veg Chilli Potato",
+      "description": "Spicy and tangy potato dish for spice enthusiasts",
+      "price": 150
+    },
+    {
+      "name": "Veg Chowmein",
+      "price": 88
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "description": "Spicy and flavorful dish for lovers of Indo-Chinese cuisine",
+      "price": 260
+    },
+    {
+      "name": "Afghani Chicken",
+      "description": "Creamy and succulent chicken marinated with rich spices",
+      "price": 350
+    },
+    {
+      "name": "Chicken Achari Tikka",
+      "description": "Chicken pieces marinated in a tangy and spicy pickle masala",
+      "price": 389
+    },
+    {
+      "name": "Chicken Chowmein",
+      "description": "Noodles cooked with chicken and vegetables in a savory sauce",
+      "price": 144
+    },
+    {
+      "name": "Chicken Hakka Noodle",
+      "price": 250
+    },
+    {
+      "name": "Chicken Hariyali Tikka",
+      "description": "Chicken marinated in a coriander, mint, and spice blend",
+      "price": 378
+    },
+    {
+      "name": "Chicken Malai Tikka",
+      "description": "Tender chicken pieces marinated in a creamy mixture",
+      "price": 375
+    },
+    {
+      "name": "Chicken Seek Kabab",
+      "description": "Chicken pieces marinated and grilled to perfection",
+      "price": 375
+    },
+    {
+      "name": "Chicken Singapuri Chowmein",
+      "description": "Noodles cooked with chicken and vegetables in a spicy sauce",
+      "price": 250
+    },
+    {
+      "name": "Chicken Tikka",
+      "description": "Grilled pieces of marinated chicken",
+      "price": 350
+    },
+    {
+      "name": "Chilli Chicken",
+      "description": "Spicy and flavorful dish for lovers of Indo-Chinese cuisine",
+      "price": 350
+    },
+    {
+      "name": "Egg Bhurjee",
+      "description": "Scrambled eggs with onions, tomatoes, and spices",
+      "price": 75
+    },
+    {
+      "name": "Egg Chowmin",
+      "description": "Noodles cooked with eggs and vegetables in a savory sauce",
+      "price": 213
+    },
+    {
+      "name": "Tandoori Chicken",
+      "description": "Smoky and flavorful chicken marinated with spices",
+      "price": 375
+    },
+    {
+      "name": "Tangri Kabab",
+      "description": "Grilled chicken drumsticks",
+      "price": 312
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 57
+    },
+    {
+      "name": "Aloo Pyaz Paratha",
+      "price": 57
+    },
+    {
+      "name": "Butter Naan",
+      "price": 44
+    },
+    {
+      "name": "Chur Chur Naan",
+      "description": "Flaky and buttery flatbread that’s crushed and layered",
+      "price": 65
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 50
+    },
+    {
+      "name": "Gobi Paratha",
+      "price": 57
+    },
+    {
+      "nameMultiplier": "Kashmiri Naan",
+      "description": "Soft and fluffy flatbread stuffed with dry fruits and nuts",
+      "price": 71
+    },
+    {
+      "name": "Lachcha Paratha",
+      "price": 38
+    },
+    {
+      "name": "Missi Roti",
+      "description": "Traditional North Indian flatbread made from a blend of flours",
+      "price": 30
+    },
+    {
+      "name": "Mixed Paratha",
+      "price": 57
+    },
+    {
+      "name": "Onion Naan",
+      "price": 55
+    },
+    {
+      "name": "Paneer Paratha",
+      "price": 63
+    },
+    {
+      "name": "Paratha Platter",
+      "price": 119
+    },
+    {
+      "name": "Plain Naan",
+      "price": 38
+    },
+    {
+      "name": "Pyaaz Paratha",
+      "price": 57
+    },
+    {
+      "name": "Special Paratha Platter",
+      "price": 163
+    },
+    {
+      "name": "Stuffed Naan",
+      "description": "Soft and flavorful flatbread filled with your choice of stuffing",
+      "price": 63
+    },
+    {
+      "name": "Stuffed Paratha",
+      "description": "Crispy and golden flatbread filled with your choice of stuffing",
+      "price": 63
+    },
+    {
+      "name": "Tandoor Roti",
+      "price": 19
+    },
+    {
+      "name": "Tandoori Butter Roti",
+      "price": 25
+    },
+    {
+      "name": "Tandoori Garlic Roti",
+      "price": 25
+    },
+    {
+      "name": "Tawa Butter Roti",
+      "price": 23
+    },
+    {
+      "name": "Tawa Ghee Roti",
+      "price": 25
+    },
+    {
+      "name": "Tawa Roti",
+      "price": 15
+    },
+    {
+      "name": "Black Coffee",
+      "price": 38
+    },
+    {
+      "name": "Boondi Raita",
+      "description": "Yogurt-based side dish mixed with crispy boondi",
+      "price": 69
+    },
+    {
+      "name": "Chaach",
+      "price": 50
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 75
+    },
+    {
+      "name": "Lime Soda",
+      "price": 63
+    },
+    {
+      "name": "Masala Coldrink",
+      "price": 38
+    },
+    {
+      "name": "Mixed Raita",
+      "price": 69
+    },
+    {
+      "name": "Nimbu Pani",
+      "price": 44
+    },
+    {
+      "name": "Onion Raita",
+      "description": "Yogurt-based side dish mixed with finely chopped onions and spices",
+      "price": 69
+    },
+    {
+      "name": "Pineapple Raita",
+      "description": "Yogurt-based side dish mixed with diced pineapple and spices",
+      "price": 105
+    },
+    {
+      "name": "Plain Curd",
+      "description": "Fresh and creamy yogurt",
+      "price": 57
+    },
+    {
+      "name": "Plain Curd (half)",
+      "description": "Half portion of fresh and creamy yogurt",
+      "price": 32
+    },
+    {
+      "name": "Plain Raita",
+      "price": 47
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 75
+    },
+    {
+      "name": "Non Veg Thali",
+      "description": "Special platter with tawa butter roti, jeera rice, mix veg, kadai chicken, boondi raita, and more",
+      "price": 311
+    },
+    {
+      "name": "Special Veg Thali",
+      "description": "Platter with tawa butter roti, jeera rice, mix veg, yellow dal, paneer butter masala, boondi raita, and more",
+      "price": 261
+    },
+    {
+      "name": "Veg Thali",
+      "description": "Platter with a variety of vegetarian dishes, rice, and bread",
+      "price": 210
+    },
+    {
+      "name": "Aloo Tikki Chat",
+      "price": 71
+    },
+    {
+      "name": "Boiled Egg",
+      "price": 20
+    },
+    {
+      "name": "Bread Omelette",
+      "price": 88
+    },
+    {
+      "name": "Butter Toast",
+      "price": 35
+    },
+    {
+      "name": "Chana Chat",
+      "price": 105
+    },
+    {
+      "name": "Maggi",
+      "price": 50
+    },
+    {
+      "name": "Mix Chat",
+      "price": 136
+    },
+    {
+      "name": "Omelette",
+      "price": 53
+    },
+    {
+      "name": "Peanut Chakhna Chat (spicy)",
+      "price": 112
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 23
+    },
+    {
+      "name": "Gulabjamun Portion",
+      "price": 44
+    }
+  ],
+  "special_features": "Home Delivery, Takeaway Available, Vegetarian Options, North Indian Cuisine",
+  "reviews": [
+    {
+      "star_rating": "1/5",
+      "reviewer_name": "Kumarjit Paul",
+      "comment": "The whole paratha was burned. Secondly they didn't provide dips/ chutney. Worst experience. Kindly take some measure.",
+      "date": "6 hours ago"
+    },
+    {
+      "star_rating": "3/5",
+      "reviewer_name": "Leena Solomon",
+      "comment": "Order full quantity looks half. very Bad",
+      "date": "6 hours ago"
+    },
+    {
+      "star_rating": "5/5",
+      "reviewer_name": "Girdhar Tarani",
+      "date": "Yesterday"
+    },
+    {
+      "star_rating": "2/5",
+      "reviewer_name": "Pablo Mitra",
+      "comment": "Milk gets spilled these days because of bad packing and holes in containers",
+      "date": "5 days ago"
+    },
+    {
+      "star_rating": "3/5",
+      "reviewer_name": "Ajay Sidpara",
+      "comment": "Kadhai paneer was too much oily. Butter naan was very rubbery and hard. Paneer butter masala was good.",
+      "date": "6 days ago"
+    }
+  ]
+}

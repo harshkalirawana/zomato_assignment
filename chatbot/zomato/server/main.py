@@ -8,6 +8,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import HfFolder
 
 
+
 class KnowledgeBase:
     def __init__(self, embedding_model="intfloat/e5-large-v2"):
         self.documents = []
@@ -100,8 +101,13 @@ class RestaurantRAG:
         relevant_chunks = self.kb.search(query, k=top_k)
         context = "\n\n".join([doc["text"] for doc in relevant_chunks])
 
-        prompt = f"""You are a helpful restaurant assistant.
-Answer the question using the information below. If not available, say "Not found".
+        prompt = f"""You are a helpful and friendly restaurant assistant. 
+Your goal is to provide clear, engaging, and well-phrased answers to customer queries about restaurants, menus, prices, hours, or services. 
+Make your responses informative and conversational. Always include the restaurant name in a helpful sentence. 
+Do not simply list raw data (like just "140" or time ranges). If information is not available, say something like: 
+"I'm sorry, I couldn't find that information right now."
+
+Based on the following context, answer the question in a friendly, natural-sounding way:
 
 Context:
 {context}
@@ -110,15 +116,15 @@ Question: {query}
 Answer:"""
 
         input_ids = self.tokenizer(prompt, return_tensors="pt").to(self.model.device)
-        output = self.model.generate(**input_ids, max_new_tokens=200)
-        answer = self.tokenizer.decode(output[0], skip_special_tokens=True)
-
-        return answer.split("Answer:")[-1].strip()
+        output = self.model.generate(**input_ids, max_new_tokens=100, early_stopping=True,do_sample=False,eos_token_id=self.tokenizer.eos_token_id)
+        decoded = self.tokenizer.decode(output[0], skip_special_tokens=True)
+        answer = decoded.split("A:")[-1].strip()
+        return answer
 
 
 # === EXAMPLE USAGE ===
 if __name__ == "__main__":
-    data_path = r"C:\Users\ASUS\Desktop\zomato_assignment\chatbot\zomato\data"
+    data_path = r"C:\Users\ASUS\Desktop\zomato_assignment\zomato\zomato\data"
     chatbot = RestaurantRAG(data_path)
 
     print("\nType 'exit' to quit.\n")

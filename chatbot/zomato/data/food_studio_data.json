@@ -1,0 +1,636 @@
+{
+  "restaurant_name": "Food Studio",
+  "location": "N646/A/S/505, 1st Floor Regent Heritage, Jhapetapur, IIT Kharagpur, Kharagpur",
+  "operating_hours": "12noon – 10:30pm (Today)",
+  "contact_info": {
+    "phone": "+919933420817",
+    "address": "N646/A/S/505, 1st Floor Regent Heritage, Jhapetapur, IIT Kharagpur, Kharagpur"
+  },
+  "menu_items": [
+    {
+      "name": "Hot And Sour Soup",
+      "description": "Fresh vegetables in a spicy, hot and tangy Chinese broth flavoured with vinegar",
+      "price": "125"
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "description": "Oriental clear soup with a twist of fresh coriander leaves and a dash",
+      "price": "120"
+    },
+    {
+      "name": "Manchow Soup",
+      "description": "Crunchy vegetables in a spicy Chinese flavoured onion, garlic, ginger broth, topped with",
+      "price": "125"
+    },
+    {
+      "name": "French Fry",
+      "description": "Deep-fried potato fingers served with tomato sauce",
+      "price": "135"
+    },
+    {
+      "name": "Veg Spring Roll",
+      "description": "Crunchy, savoury vegetables rolled in a pastry sheet, deep-fried and served with",
+      "price": "185"
+    },
+    {
+      "name": "Crispy Wings (6 Pcs)",
+      "description": "Chicken wings tossed in a spicy condiment and golden-fried until perfection.",
+      "price": "325"
+    },
+    {
+      "name": "Fish And Chips (4 Pcs)",
+      "description": "Boneless fish strips, dipped in a crispy batter and deep-fried until golden",
+      "price": "345"
+    },
+    {
+      "name": "Fish Finger (6 Pcs)",
+      "description": "Deep-fried batter-coated fish strips, served with sweet chilli sauce.",
+      "price": "325"
+    },
+    {
+      "name": "American Corn Salt & Pepper",
+      "description": "Crispy, batter-fried corn kernels, vegetables and onions tossed in mild spices and",
+      "price": "255"
+    },
+    {
+      "name": "Crispy Chilli Baby Corn",
+      "description": "Batter-fried baby corn tossed in plum sauce alongside onions, garlic, green chillies",
+      "price": "275"
+    },
+    {
+      "name": "Honey Baby Corn",
+      "description": "Baby corn coated in batter, deep-fried and tossed in honey & sweet",
+      "price": "285"
+    },
+    {
+      "name": "Pan Fried Chilli Mushroom",
+      "description": "Batter-fried mushroom, bell pepper, onion and scallions in a flavourful sauce",
+      "price": "265"
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "description": "Deep-fried balls of crunchy vegetables in a crispy batter, stirred in a",
+      "price": "260"
+    },
+    {
+      "name": "Wok Tossed Chilli Paneer Dry",
+      "description": "Crispy battered cottage cheese, capsicum and onion, tossed in chilli and soya sauce.",
+      "price": "295"
+    },
+    {
+      "name": "Butter Garlic Prawn",
+      "description": "Succulent freshwater prawns and chopped garlic, cooked in butter and tossed with lemon",
+      "price": "450"
+    },
+    {
+      "name": "Dragon Chicken",
+      "description": "Batter-fried crispy, crunchy chicken strips, which are tossed in a spicy, sweet, and",
+      "price": "290"
+    },
+    {
+      "name": "Drums Of Heaven (8 Pcs)",
+      "description": "Crispy, golden-fried chicken lollipops tossed in a thick sweet and spicy sauce.",
+      "price": "340"
+    },
+    {
+      "name": "Dry Chilli Chicken",
+      "description": "Crispy chicken fritters, bell pepper and scallions in flavoursome soy sauce.",
+      "price": "320"
+    },
+    {
+      "name": "Pan Fried Chilli Chicken",
+      "description": "Pan-fried chicken with garlic, onions and green chillies tossed in house chilli",
+      "price": "330"
+    },
+    {
+      "name": "Pan Fried Chilli Fish",
+      "description": "Chef's special marinated fish fillet and cubed bell pepper stirred in a flavourful",
+      "price": "400"
+    },
+    {
+      "name": "Sesame Honey Chicken",
+      "description": "Batter-fried chicken, tossed in sweet and savoury honey-based sauce, sprinkled with sesame",
+      "price": "320"
+    },
+    {
+      "name": "Wings Of Fire(6 Pcs)",
+      "description": "Crispy-fried batter-coated chicken wings, tossed in a fiery hot Chinese sauce",
+      "price": "350"
+    },
+    {
+      "name": "Fried Cheesy Momo",
+      "description": "Chefs special crispy-fried dumplings, stuffed with a savoury filling, and coated in",
+      "price": "145"
+    },
+    {
+      "name": "Fried Momo",
+      "description": "Deep-fried dumplings with a flavourful spicy filling, served with chilli dip.",
+      "price": "130"
+    },
+    {
+      "name": "Pan Fried Momo",
+      "description": "Savoury filling of vegetables/shredded chicken, onion, ginger, garlic and pepper in flour dough",
+      "price": "145"
+    },
+    {
+      "name": "Steam Momo",
+      "description": "Momo stuffed with a mix of soft juicy boneless chicken, onion & coriander cooked",
+      "price": "130"
+    },
+    {
+      "name": "Hara Bhara Kebab",
+      "description": "Tandoor-grilled spinach, peas and potatoes patties.",
+      "price": "235"
+    },
+    {
+      "name": "Paneer Hariyali (6 Pcs)",
+      "description": "Tandoor-grilled cottage cheese, in a spicy green marinade of fresh mint, coriander",
+      "price": "290"
+    },
+    {
+      "name": "Paneer Sufiana Malai (6 Pcs)",
+      "description": "Rich, creamy cottage cheese in a mildly flavoured marinade, cooked on a clay oven",
+      "price": "310"
+    },
+    {
+      "name": "Paneer Tikka (6 Pcs)",
+      "description": "Cottage cheese, capsicum, tomato and onion, spice-coated and charred on traditional Indian",
+      "price": "280"
+    },
+    {
+      "name": "Murg Hariyali (6 Pcs)",
+      "description": "Juicy chicken chunks in a rich Hariyali marinade of mint, coriander, ginger and",
+      "price": "290"
+    },
+    {
+      "name": "Murg Jaipuri Tikka (6 Pcs)",
+      "description": "Tender chicken chunks in a rich, creamy, bright yellow marinade of kasturi and",
+      "price": "285"
+    },
+    {
+      "name": "Murg Malai (6 Pcs)",
+      "description": "Tandoor-grilled chicken pieces marinated in a melange of cream cheese, ginger garlic",
+      "price": "300"
+    },
+    {
+      "name": "Murg Reshmi (6 Pcs)",
+      "description": "Juicy chicken chunks in a sweet and creamy marinade, grilled to a silky",
+      "price": "290"
+    },
+    {
+      "name": "Murg Tandoori",
+      "description": "The King of all kebabs, spiced whole / half chicken with bone, finished",
+      "price": "330"
+    },
+    {
+      "name": "Murg Tengri",
+      "description": "Clay oven-grilled chicken drumsticks treated in a spicy marinade",
+      "price": "250"
+    },
+    {
+      "name": "Murg Tikka (6 Pcs)",
+      "description": "Traditionally marinated (added spicy for angara) chicken pieces, grilled over charcoal fire.",
+      "price": "280"
+    },
+    {
+      "name": "Prawn Tandoori (8 Pcs)",
+      "description": "Chefs special spicy marinated prawns, tandoor grilled until tender and smokey",
+      "price": "440"
+    },
+    {
+      "name": "Punjabi Teekhi Macchi (4 Pcs)",
+      "description": "Fish coated in a traditional Punjabi fiery spice mix and grilled to perfection",
+      "price": "410"
+    },
+    {
+      "name": "Studio Assorted Kebab Platter",
+      "description": "Chef curated: Juicy chicken kebabs, three varieties (9 pcs), succulent fish or prawn",
+      "price": "600"
+    },
+    {
+      "name": "Sugandhi Mahi (4 Pcs)",
+      "description": "Awadhi-style grilled fish marinated with yogurt, handpicked spices and a dash of",
+      "price": "400"
+    },
+    {
+      "name": "Cantonese Gravy Noodle",
+      "description": "A light, nutrient-enriched, boiled noodles in thick white gravy with cabbage, carrot",
+      "price": "165"
+    },
+    {
+      "name": "Chilli Garlic Noodle",
+      "description": "Noodles and capsicum, tossed in a garlic-flavoured, mildly spicy chilli paste, tomato",
+      "price": "155"
+    },
+    {
+      "name": "Chilli Garlic Rice",
+      "description": "Rice with carrot, American corn & beans tossed in chilli paste, tomato ketchup",
+      "price": "165"
+    },
+    {
+      "name": "Fried Rice",
+      "description": "Wok tossed rice sauteed with prawns, chicken, eggs and seasonal vegetables.",
+      "price": "155"
+    },
+    {
+      "name": "Hakka Noodles",
+      "description": "Wok tossed noodles with vegetables such as cabbage, carrot, capsicum stir-fried in",
+      "price": "145"
+    },
+    {
+      "name": "Schezwan Noodle",
+      "description": "Noodles with carrot, cabbage, capsicum & dry red chilli tossed in spicy schezwan",
+      "price": "155"
+    },
+    {
+      "name": "Schezwan Rice",
+      "descriptionMultiplier": "1.18",
+      "description": "Rice with carrot, beans, American corn & dry chilli tossed in spicy schezwan",
+      "price": "165"
+    },
+    {
+      "name": "Chilli Paneer Gravy",
+      "description": "Crispy battered cottage cheese, capsicum and onion, tossed in chilli and soya gravy.",
+      "price": "265"
+    },
+    {
+      "name": "Veg Manchurian Gravy",
+      "description": "Assorted vegetables balls tossed in dark soya, spicy chilli sauce, oyster and tomato",
+      "price": "235"
+    },
+    {
+      "name": "Chicken Chilli Gravy",
+      "description": null,
+      "price": "320"
+    },
+    {
+      "name": "Chicken Hot Garlic Gravy",
+      "description": "Coated boneless chunks tossed in sauteed garlic, tomato sauce and house chilli sauce",
+      "price": "320"
+    },
+    {
+      "name": "Chicken Hunan Gravy",
+      "description": "Batter-fried boneless chunks in savoury and mildly spicy Cantonese gravy garnish with",
+      "price": "320"
+    },
+    {
+      "name": "Chicken Manchurian Gravy",
+      "description": "Coated sliced boneless chunks tossed in dark soya, chilli sauce and oyster sauce",
+      "price": "320"
+    },
+    {
+      "nameMultiplier": "1.08",
+      "name": "Chicken Sweet Garlic Gravy",
+      "description": "Coated cubed boneless chunks in sweet garlic gravy.",
+      "price": "320"
+    },
+    {
+      "name": "Drums Of Paradise (6 Pcs)",
+      "description": "Chicken Lollipops tossed in a sweet, spicy gravy.",
+      "price": "350"
+    },
+    {
+      "name": "Fish Chilli Gravy",
+      "description": null,
+      "price": "395"
+    },
+    {
+      "name": "Fish Hot Garlic Gravy",
+      "description": "Coated boneless chunks tossed in sauteed garlic, tomato sauce and house chilli sauce",
+      "price": "410"
+    },
+    {
+      "name": "Fish Hunan Gravy",
+      "description": "Batter-fried boneless chunks in savoury and mildly spicy Cantonese gravy garnish with",
+      "price": "410"
+    },
+    {
+      "name": "Fish Manchurian Gravy",
+      "description": "Coated sliced boneless chunks tossed in dark soya, chilli sauce and oyster sauce",
+      "price": "410"
+    },
+    {
+      "name": "Fish Sweet Garlic Gravy",
+      "description": "Coated cubed boneless chunks in sweet garlic gravy.",
+      "price": "410"
+    },
+    {
+      "name": "Prawn Chilli Gravy",
+      "description": null,
+      "price": "450"
+    },
+    {
+      "name": "Prawn Hot Garlic Gravy",
+      "description": "Coated boneless chunks tossed in sauteed garlic, tomato sauce and house chilli sauce",
+      "price": "480"
+    },
+    {
+      "name": "Prawn Hunan Gravy",
+      "description": "Batter-fried boneless chunks in savoury and mildly spicy Cantonese gravy garnish with",
+      "price": "480"
+    },
+    {
+      "name": "Prawn Manchurian Gravy",
+      "description": "Coated sliced boneless chunks tossed in dark soya, chilli sauce and oyster sauce",
+      "price": "480"
+    },
+    {
+      "name": "Prawn Sweet Garlic Gravy",
+      "description": "Coated cubed boneless chunks in sweet garlic gravy.",
+      "price": "480"
+    },
+    {
+      "name": "Boneless Fish Tikka Masala (4 Pcs)",
+      "description": "Delicately roasted, tender, boneless fish chunks and capsicum, cooked in a rich tomato",
+      "price": "420"
+    },
+    {
+      "name": "Kadhai Murgh (4 Pcs)",
+      "description": "Chicken, cubed capsicum and onion, stirred in a semi-dry, deeply flavourful, spicy",
+      "price": "310"
+    },
+    {
+      "name": "Murgh Bhuna",
+      "description": "Tangy, spicy boneless chicken cooked with tomato, onion, green chillies, aromatic Indian spices",
+      "price": "290"
+    },
+    {
+      "name": "Murgh Da Bharta",
+      "description": "An all-time favourite! Chicken cooked to perfection in a rich creamy Arsalan",
+      "price": "280"
+    },
+    {
+      "name": "Murgh Dil Bahar Do Piyaza (4 Pcs)",
+      "description": "Luscious chicken pieces and onion cubes stewed in a rich creamy, aromatic onion",
+      "price": "310"
+    },
+    {
+      "name": "Murgh Kasha (4 Pcs)",
+      "description": "Juicy chicken chunks and potato cubes slow-cooked in a spicy, flavourful curry",
+      "price": "290"
+    },
+    {
+      "name": "Murgh Leg Korma",
+      "description": "Clay oven-roasted chicken leg pieces simmered in a classic, rich, creamy gravy",
+      "price": "240"
+    },
+    {
+      "name": "Murgh Nizami Handi (4 Pcs)",
+      "description": "Royal Hyderabadi-style chicken in a rich, creamy, nutty gravy.",
+      "price": "290"
+    },
+    {
+      "name": "Murgh Tikka Lababdar (6 Pcs)",
+      "description": "Tandoor-grilled boneless chicken with bell pepper in a rich, creamy gravy of tomato",
+      "price": "355"
+    },
+    {
+      "name": "Murgh Tikka Makhan Masala (6 Pcs)",
+      "description": "Grilled chicken cooked in a rich, buttery tomato onion gravy.",
+      "price": "355"
+    },
+    {
+      "name": "Prawn Masala (8Pcs)",
+      "description": "Prawn cooked in a spicy tomato onion gravy, garnished with fresh coriander leaves",
+      "price": "480"
+    },
+    {
+      "name": "Rashmi Makhan Masala (6Pcs)",
+      "description": "Chicken cooked in a rich creamy white gravy with cashew and cream",
+      "price": "355"
+    },
+    {
+      "name": "Tandoori Chicken Makhanwala",
+      "description": "Delicious tandoor-treated chicken (2pcs) cooked in a creamy, flavourful tomato butter gravy",
+      "price": "420"
+    },
+    {
+      "name": "Chana Masala",
+      "description": "Chickpeas cooked with tomato, onion, ginger and assorted Indian spices, in a mildly",
+      "price": "185"
+    },
+    {
+      "name": "Kadhai Paneer",
+      "description": "Succulent cottage cheese, green bell peppers and cubed onion, tossed in a semi",
+      "price": "310"
+    },
+    {
+      "name": "Matar Paneer",
+      "description": "Cottage cheese and green peas, cooked in a creamy tomato onion gravy.",
+      "price": "255"
+    },
+    {
+      "name": "Methi Corn Malai",
+      "description": "Sweet corn kernels with fenugreek leaves, in a rich, creamy, spicy tomato onion",
+      "price": "240"
+    },
+    {
+      "name": "Mushroom Butter Masala",
+      "description": "Juicy, delicate button mushrooms cooked in a rich, buttery gravy of tomato, onion",
+      "price": "265"
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "Cottage cheese in a rich, creamy, buttery blend of tomato, cashew and exotic",
+      "price": "295"
+    },
+    {
+      "name": "Paneer Do Pyaza",
+      "description": "Cottage cheese and onion cubes in a rich, thick gravy of tomato, onion",
+      "price": "290"
+    },
+    {
+      "name": "Paneer Tikka Lababdar",
+      "description": "Roasted cottage cheese cubes in a rich, spicy lababdar gravy of tomato, onion",
+      "price": "330"
+    },
+    {
+      "name": "Subz Makhan Masala",
+      "description": "A medley of vegetables, tomato, onion and handpicked spices in a rich, buttery",
+      "price": "280"
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Fluffy basmati rice with ghee, cumin and other aromatic spices, cooked until perfection.",
+      "price": "125"
+    },
+    {
+      "name": "Kashmiri Pulao",
+      "description": "Long-grained aromatic rice, laced with a melange of fresh and dry fruits, whole",
+      "price": "195"
+    },
+    {
+      "name": "Steamed Rice",
+      "description": null,
+      "price": "95"
+    },
+    {
+      "name": "Veg Paneer Pulao",
+      "description": "Cottage cheese, vegetables and rice cooked with aromatic spices and ghee.",
+      "price": "175"
+    },
+    {
+      "name": "Butter Garlic Naan",
+      "description": "Chopped garlic in flour dough, roasted in a clay oven, glazed with butter.",
+      "price": "70"
+    },
+    {
+      "name": "Butter Naan",
+      "description": "Thick and fluffy Indian flatbread, roasted on a clay oven and served warm.",
+      "price": "60"
+    },
+    {
+      "name": "Butter Tandoori Roti (Atta)",
+      "description": "Whole wheat flatbread, tandoor roasted and topped with butter.",
+      "price": "35"
+    },
+    {
+      "name": "Cheese Kulcha",
+      "description": "Tandoor-roasted leavened flour flatbread with a delicious stuffing of cheese, green chillies",
+      "price": "75"
+    },
+    {
+      "name": "Lachha Paratha",
+      "description": "Crispy, flakey and layered flour flatbread cooked in a clay oven.",
+      "price": "70"
+    },
+    {
+      "name": "Masala Kulcha",
+      "description": "Potato, green chillies, herbs and assorted spices in a leavened flour dough, clay",
+      "price": "85"
+    },
+    {
+      "name": "Missi Roti",
+      "description": "Savoury whole wheat and chickpea flour flatbread, laced with onion, garlic, chopped green",
+      "price": "40"
+    },
+    {
+      "name": "Plain Naan",
+      "description": "Thick and fluffy Indian flatbread, roasted on a clay oven and served warm.",
+      "price": "50"
+    },
+    {
+      "name": "Plain Tandoori Roti (Atta)",
+      "description": "Whole wheat flatbread, roasted in a clay oven.",
+      "price": "30"
+    },
+    {
+      "name": "Dal Fry",
+      "description": "Boiled pigeon peas tempered with a spicy tomato, onion and cumin tadka in",
+      "price": "135"
+    },
+    {
+      "name": "Dal Makhni",
+      "description": "Traditional Punjabi-style split pigeon peas and green gram lentils, slow-cooked in",
+      "price": "190"
+    },
+    {
+      "name": "Yellow Dal Tadka",
+      "description": "Boiled split pigeon peas tempered with garlic cloves and dried red chillies in",
+      "price": "145"
+    },
+    {
+      "name": "Boondi Raita",
+      "description": "Beaten curd stirred with fried gram floor balls and zesty spices, served best",
+      "price": "70"
+    },
+    {
+      "name": "Green Salad",
+      "description": "Delicately sliced cucumber, carrots, tomatoes and onion medley topped with lemon wedges &",
+      "price": "70"
+    },
+    {
+      "name": "Mix Raita",
+      "description": "Rich, creamy yogurt, assorted vegetables and ground spices, delicately mixed and served",
+      "price": "80"
+    },
+    {
+      "name": "Onion Salad",
+      "description": "Freshly sliced onions served with lemon wedges and green chillies.",
+      "price": "60"
+    },
+    {
+      "name": "Pineapple Raita",
+      "description": "Smooth yogurt, juicy pineapple, mixed spices and herbs, carefully mixed into a sweet",
+      "price": "95"
+    },
+    {
+      "name": "Plain Curd",
+      "description": "Smooth, creamy yogurt with a hint of spices.",
+      "price": "50"
+    },
+    {
+      "name": "Blue Lagoon",
+      "description": "Sinfully blended blue curacao and lemonade topped with ice cubes.",
+      "price": "130"
+    },
+    {
+      "name": "Fresh Lime Water",
+      "description": "Classic, zesty mix of fresh lime juice in chilled water. Mixed / Salted / Sweet",
+      "price": "60"
+    },
+    {
+      "name": "Orange Mint",
+      "description": "Sweat and Tangy orange juice with a hint of Mint",
+      "price": "140"
+    },
+    {
+      "name": "Virgin Mojito",
+      "description": "Mint-infused fresh lime juice in chilled soda.",
+      "price": "135"
+    },
+    {
+      "name": "Hot Brownie With Ice Cream",
+      "description": "Moist, rich, baked chocolate dessert sinfully topped with delectable chocolate sauce & one",
+      "price": "125"
+    },
+    {
+      "name": "Hot Brownie",
+      "description": "Moist, rich, baked chocolate dessert sinfully topped with delectable chocolate sauce",
+      "price": "80"
+    },
+    {
+      "name": "Hot Gulab Jamun (2 Pcs)",
+      "description": "Melt-in-mouth mawa dumplings, deep-fried and soaked in rose-flavoured golden syrup",
+      "price": "70"
+    },
+    {
+      "name": "Tutti Frutti Delight",
+      "description": "Rich, creamy fresh dessert, with the pleasant surprise of fresh fruits in every",
+      "price": "155"
+    }
+  ],
+  "special_features": "Home Delivery, Takeaway Available, Indoor Seating",
+  "reviews": [
+    {
+      "star_rating": "1",
+      "reviewer_name": "Rakesh Singh",
+      "comment": null,
+      "date": "19 hours ago"
+    },
+    {
+      "star_rating": "1",
+      "reviewer_name": "Deepak Tudu",
+      "comment": "worst food bakwaas khana waste of money only boiled noodles inside the box no vegitable need refund.",
+      "date": "4 days ago"
+    },
+    {
+      "star_rating": "5",
+      "reviewer_name": "KINGSHUK SAHA",
+      "comment": "Fantastic",
+      "date": "5 days ago"
+    },
+    {
+      "star_rating": "5",
+      "reviewer_name": "Amit Garai",
+      "comment": "Good quantity of hakka noodles but dragon chicken quantity was very less",
+      "date": "5 days ago"
+    },
+    {
+      "star_rating": "1",
+      "reviewer_name": "Ankush",
+      "comment": "food was smelling awful",
+      "date": "6 days ago"
+    }
+  ]
+}

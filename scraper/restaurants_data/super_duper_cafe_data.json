@@ -1,0 +1,867 @@
+{
+  "restaurant_name": "Super Duper Cafe",
+  "location": "Shop GB 1, HILJI KGP, Ward 30, IIT Kharagpur, Kharagpur",
+  "operating_hours": null,
+  "contact_info": {
+    "phone": "+917047309286",
+    "email": null,
+    "address": "Shop GB 1, HILJI KGP, Ward 30, IIT Kharagpur, Kharagpur",
+    "social_media": null,
+    "website": null
+  },
+  "menu_items": [
+    {
+      "name": "Veg Grilled Sandwich with Hot Coffee Combo",
+      "description": null,
+      "price": 149
+    },
+    {
+      "name": "Sandwich Combo",
+      "description": "Veg Grilled Sandwich+Paneer Corn Grilled Sandwich",
+      "price": 159
+    },
+    {
+      "name": "Burger Combo",
+      "description": "Veg Burger+Aloo Tikki Burger [1 Piece]",
+      "price": 209
+    },
+    {
+      "name": "Veg Noodles Combo",
+      "description": "Veg Finger [2 Pieces]+Veg Noodles+Veg Manchurian Gravy+Coke Soft Beverage [250 ml]",
+      "price": 299
+    },
+    {
+      "name": "Veg Fried Rice Combo",
+      "description": "Veg Finger [2 Pieces]+Veg Fried Rice+Veg Manchurian Gravy+Coke Soft Beverage [250 ml]",
+      "price": 299
+    },
+    {
+      "name": "Hot and Crispy Chicken Meal",
+      "description": "Crispy Chicken+Fries+Coke Soft Beverage [250 ml]",
+      "price": 239
+    },
+    {
+      "name": "Chicken Strip Meal",
+      "description": "Chicken Strips [4 Pieces]+Fries+Coke Soft Beverage [250 ml]",
+      "price": 279
+    },
+    {
+      "name": "Hot Wings Combo",
+      "description": "Chicken Wings [4 Pieces]+Mayo Dip+Regular Popcorn+Fries+Coke Soft Beverage [250 ml]",
+      "price": 369
+    },
+    {
+      "name": "Chicken Shawarma Meal",
+      "description": "Chicken Shawarma+Small Fries+ Mayo Dip+Coke Soft Beverages [250 ml]",
+      "price": 289
+    },
+    {
+      "name": "Chicken Noodles Combo",
+      "description": "Chicken Pakoda [4 Pieces]+ChiHakka Noodles+Chicken Chilli Gravy+Coke Soft Beverage [250 ml]",
+      "price": 389
+    },
+    {
+      "name": "Chicken Fried Rice Combo",
+      "description": "Chicken Pakoda [4 Pieces]+Ch Fried Rice+Chicken Chilli Gravy+Coke Soft Beverage [250 ml]",
+      "price": 389
+    },
+    {
+      "name": "Veg Thali",
+      "description": "Rice+Moong Dal+Veg Fry+Seasonal Sabji+Salad [Subject to Availability]",
+      "price": 109
+    },
+    {
+      "name": "Egg Thali",
+      "description": "Rice+Moong Dal+Veg Fry+Seasonal Sabji+Egg Curry [2 Eggs]+Salad [Subject to Availability]",
+      "price": 149
+    },
+    {
+      "name": "Chicken Thali",
+      "description": "Rice+Moong Dal+Veg Fry+Seasonal Sabji+Chicken Curry+Salad [Subject to Availability]",
+      "price": 189
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "description": null,
+      "price": 129
+    },
+    {
+      "name": "Veg Clear Soup",
+      "description": null,
+      "price": 109
+    },
+    {
+      "name": "Veg Hot and Sour Soup",
+      "description": null,
+      "Multiplier": 129
+    },
+    {
+      "name": "Sweet Corn Soup",
+      "description": null,
+      "price": 129
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Tomato Soup",
+      "description": null,
+      "price": 129
+    },
+    {
+      "name": "Chicken Hot and Sour Soup",
+      "description": null,
+      "price": 169
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "description": null,
+      "price": 169
+    },
+    {
+      "name": "Chicken Clear Soup",
+      "description": null,
+      "price": 109
+    },
+    {
+      "name": "Chicken Sweet Corn Soup",
+      "description": null,
+      "price": 169
+    },
+    {
+      "name": "Chicken Lemon Coriander Soup",
+      "description": null,
+      "price": 139
+    },
+    {
+      "name": "Fried Chicken Bucket",
+      "description": null,
+      "price": 279
+    },
+    {
+      "name": "Hot and Crispy Fried Chicken",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Boneless Chicken Strip [6 Pieces]",
+      "description": null,
+      "price": 299
+    },
+    {
+      "name": "Chicken Hot Wings [4 Pieces]",
+      "description": null,
+      "price": 239
+    },
+    {
+      "name": "Fish and Chips",
+      "description": null,
+      "price": 349
+    },
+    {
+      "name": "Fried Prawns [ 6 Pieces]",
+      "description": null,
+      "price": 369
+    },
+    {
+      "name": "Crispy American Corn",
+      "description": null,
+      "price": 269
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "description": null,
+      "price": 249
+    },
+    {
+      "name": "Chilli Paneer Dry",
+      "description": null,
+      "price": 309
+    },
+    {
+      "name": "Baby Corn Chilli",
+      "description": null,
+      "price": 279
+    },
+    {
+      "name": "Mushroom Chilli Dry",
+      "description": null,
+      "price": 279
+    },
+    {
+      "name": "Honey Chilli Potato",
+      "description": null,
+      "price": 239
+    },
+    {
+      "name": "Crispy Baby Corn",
+      "description": null,
+      "price": 299
+    },
+    {
+      "name": "Chicken Lollipop [6 Pieces]",
+      "description": null,
+      "price": 349
+    },
+    {
+      "name": "Chicken 65",
+      "description": null,
+      "price": 339
+    },
+    {
+      "name": "Chicken Chilli Dry",
+      "description": null,
+      "price": 379
+    },
+    {
+      "name": "Chicken Manchurian Dry",
+      "description": null,
+      "price": 349
+    },
+    {
+      "name": "Chicken Butter Garlic Dry",
+      "description": null,
+      "price": 349
+    },
+    {
+      "name": "Chicken Pepper Fry",
+      "description": null,
+      "price": 349
+    },
+    {
+      "name": "Chicken Ghee Roast [6 Pieces]",
+      "description": null,
+      "price": 359
+    },
+    {
+      "name": "Crispy Chicken",
+      "description": null,
+      "price": 329
+    },
+    {
+      "name": "Chilli Fish [6 Pieces]",
+      "description": null,
+      "price": 379
+    },
+    {
+      "name": "Yellow Dal Fry",
+      "description": null,
+      "price": 59
+    },
+    {
+      "name": "Mixed Veg",
+      "description": "BESTSELLER",
+      "price": 89
+    },
+    {
+      "name": "Veg Manchurian Gravy",
+      "description": null,
+      "price": 269
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "description": null,
+      "price": 329
+    },
+    {
+      "name": "Mushroom Chilli Gravy",
+      "description": null,
+      "price": 299
+    },
+    {
+      "name": "Baby Corn Chilli Gravy",
+      "description": null,
+      "price": 279
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "BESTSELLER",
+      "price": 149
+    },
+    {
+      "name": "Chicken Curry",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Chicken Butter Masala",
+      "description": null,
+      "price": 169
+    },
+    {
+      "name": "Chicken Manchurian Gravy",
+      "description": null,
+      "price": 369
+    },
+    {
+      "name": "Tawa Roti",
+      "description": null,
+      "price": 15
+    },
+    {
+      "name": "Butter Tawa Roti",
+      "description": null,
+      "price": 20
+    },
+    {
+      "name": "Aloo Paratha",
+      "description": "BESTSELLER",
+      "price": 50
+    },
+    {
+      "name": "Gobhi Paratha",
+      "description": null,
+      "price": 50
+    },
+    {
+      "name": "Paneer Paratha",
+      "description": null,
+      "price": 70
+    },
+    {
+      "name": "Sattu Paratha",
+      "description": null,
+      "price": 40
+    },
+    {
+      "name": "Laccha Paratha",
+      "description": null,
+      "price": 30
+    },
+    {
+      "name": "Plain Basmati Rice",
+      "description": null,
+      "price": 79
+    },
+    {
+      "name": "Jeera Rice",
+      "description": null,
+      "price": 179
+    },
+    {
+      "name": "Veg Fried Rice",
+      "description": null,
+      "price": 179
+    },
+    {
+      "name": "Veg Schezwan Fried Rice",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Ghee Fried Rice",
+      "description": null,
+      "price": 179
+    },
+    {
+      "name": "Lemon Fried Rice",
+      "description": null,
+      "price": 179
+    },
+    {
+      "name": "Tomato Fried Rice",
+      "description": null,
+      "price": 179
+    },
+    {
+      "name": "Mushroom Fried Rice",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Egg Fried Rice",
+      "description": null,
+      "price": 149
+    },
+    {
+      "name": "Egg Schezwan Fried Rice",
+      "description": null,
+      "price": 169
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "description": null,
+      "price": 219
+    },
+    {
+      "name": "Chicken Schezwan Fried Rice",
+      "description": null,
+      "price": 239
+    },
+    {
+      "name": "Mixed Fried Rice",
+      "description": "Egg, chicken and prawns.",
+      "price": 279
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Veg Schezwan Hakka Noodles",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Egg Hakka Noodles",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Egg Schezwan Hakka Noodles",
+      "description": null,
+      "price": 199
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "description": null,
+      "price": 219
+    },
+    {
+      "name": "Chicken Schezwan Noodles",
+      "description": null,
+      "price": 229
+    },
+    {
+      "name": "Mixed Hakka Noodles",
+      "description": "Egg, chicken and prawns.",
+      "price": 349
+    },
+    {
+      "name": "Veg Penne Paprika Pasta",
+      "description": null,
+      "price": 239
+    },
+    {
+      "name": "White Sauce Pasta",
+      "description": null,
+      "price": 209
+    },
+    {
+      "name": "Red Sauce Pasta",
+      "description": null,
+      "price": 209
+    },
+    {
+      "name": "Veg Penne Pesto Pasta",
+      "description": "BESTSELLER",
+      "price": 269
+    },
+    {
+      "name": "Mixed Sauce Pasta",
+      "description": null,
+      "price": 229
+    },
+    {
+      "name": "Non Veg Penne Pesto Pasta",
+      "description": null,
+      "price": 279
+    },
+    {
+      "name": "Non Veg Penne Paprika Pasta",
+      "description": null,
+      "price": 279
+    },
+    {
+      "name": "Non Veg White Sauce Pasta",
+      "description": null,
+      "price": 239
+    },
+    {
+      "name": "Non Veg Red Sauce Pasta",
+      "description": null,
+      "price": 239
+    },
+    {
+      "name": "Non Veg Mixed Sauce Pasta",
+      "description": null,
+      "price": 249
+    },
+    {
+      "name": "Exotica Special Pizza [8 Inches]",
+      "description": "Juicy tomato, crunchy onion, bell pepper, black olive with Mozzarella cheese.",
+      "price": 389
+    },
+    {
+      "name": "Sweet Corn Paneer Pizza [8 Inches]",
+      "description": "Sweet corn, tossed paneer, capsicum and cheese.",
+      "price": 389
+    },
+    {
+      "name": "Farm Fresh Pizza [8 Inches]",
+      "description": "Onion, tomato, capcicum and corn.",
+      "price": 389
+    },
+    {
+      "name": "Margherita Pizza [8 Inches]",
+      "description": "100% Real Mozzarella cheese.",
+      "price": 309
+    },
+    {
+      "name": "Double Cheese Margherita Pizza [8 Inches]",
+      "description": "Loaded with extra 100% real Mozzarella cheese.",
+      "price": 369
+    },
+    {
+      "name": "Peri Peri Pizza [8 Inches]",
+      "description": "Capsicum, jalapeno, red paprika, red bell, yellow bell, with peri peri spices.",
+      "price": 369
+    },
+    {
+      "name": "Veggie Paradise Pizza [8 Inches]",
+      "description": "Capsicum, corn, black olive and red paprika.",
+      "price": 359
+    },
+    {
+      "name": "Chicken Feast Pizza [8 Inches]",
+      "description": "Grilled and peri peri chicken, capsicum, onion and Mozzarella cheese.",
+      "price": 409
+    },
+    {
+      "name": "Chicken Premium Pizza [8 Inches]",
+      "description": "Roasted chicken, chicken salami with black olive, crispy onion, coriander and Mozzarella cheese.",
+      "price": 409
+    },
+    {
+      "name": "Hot Chicken Pizza [8 Inches]",
+      "description": "Hot and spicy chicken, crispy onion, capsicum, coriander and Mozzarella cheese.",
+      "price": 409
+    },
+    {
+      "name": "Chicken Golden Delight Pizza [8 Inches]",
+      "description": "Chicken, golden corn and Mozzarella chese.",
+      "price": 409
+    },
+    {
+      "name": "Cheese Salad Burger",
+      "description": null,
+      "price": 99
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Veg Burger",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Chicken Burger",
+      "description": null,
+      "price": 199
+    },
+    {
+      "name": "Crunchy Chicken Burger",
+      "description": null,
+      "price": 229
+    },
+    {
+      "name": "Veg Grilled Sandwich",
+      "description": null,
+      "price": 109
+    },
+    {
+      "name": "Corn Paneer Grilled Sandwich",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Chicken Grilled Sandwich",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Veg Fingers [8 Pieces]",
+      "description": null,
+      "price": 229
+    },
+    {
+      "name": "Cheesy Garlic Bread",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Sweet Corn Garlic Bread",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Corn and Chilli Garlic Bread",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Veggie Crunchy Wrap",
+      "description": null,
+      "price": 169
+    },
+    {
+      "name": "Paneer Corn Wrap",
+      "description": null,
+      "price": 199
+    },
+    {
+      "name": "Chinese Bhel",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Cheese Corn Nuggets [8 Pieces]",
+      "description": null,
+      "price": 179
+    },
+    {
+      "name": "French Fries",
+      "description": null,
+      "price": 159
+    },
+    {
+      "name": "Nachos Chaat",
+      "description": null,
+      "price": 209
+    },
+    {
+      "name": "Sweet Corn Chaat",
+      "description": "BESTSELLER",
+      "price": 69
+    },
+    {
+      "name": "Chicken Cheesy Garlic Bread",
+      "description": null,
+      "price": 199
+    },
+    {
+      "name": "Crunchy Chicken Wrap",
+      "description": null,
+      "price": 199
+    },
+    {
+      "name": "Chicken Nuggets [8 Pieces]",
+      "description": null,
+      "price": 249
+    },
+    {
+      "name": "Fish Finger [6 Pieces]",
+      "description": null,
+      "price": 349
+    },
+    {
+      "name": "Fish Strip [4 Pieces]",
+      "description": null,
+      "price": 239
+    },
+    {
+      "name": "Chicken Shawarma",
+      "description": null,
+      "price": 199
+    },
+    {
+      "name": "Special Chicken Shawarma",
+      "description": null,
+      "price": 209
+    },
+    {
+      "name": "Cheese Chicken Shawarma",
+      "description": null,
+      "price": 229
+    },
+    {
+      "name": "Samoli [Bun] Shawarma",
+      "description": null,
+      "price": 209
+    },
+    {
+      "name": "Plain Dahi",
+      "description": null,
+      "price": 40
+    },
+    {
+      "name": "Onion Raita",
+      "description": null,
+      "price": 45
+    },
+    {
+      "name": "Fried Papad [1 Piece]",
+      "description": null,
+      "price": 20
+    },
+    {
+      "name": "Cheese Dip",
+      "description": null,
+      "price": 39
+    },
+    {
+      "name": "Peri Peri Dip",
+      "description": null,
+      "price": 39
+    },
+    {
+      "name": "Tandoori Dip",
+      "description": null,
+      "price": 39
+    },
+    {
+      "name": "Mayo Dip",
+      "description": null,
+      "price": 29
+    },
+    {
+      "name": "Maple Pancake",
+      "description": null,
+      "price": 199
+    },
+    {
+      "name": "Chocolate Pancake",
+      "description": null,
+      "price": 189
+    },
+    {
+      "name": "Nutella Banana Stuffed Pancake",
+      "description": null,
+      "price": 209
+    },
+    {
+      "name": "Brownie [1 Piece] with Choco Sauce and Chips",
+      "description": null,
+      "price": 129
+    },
+    {
+      "name": "Brownie [1 Piece] with Vanilla Ice Cream",
+      "description": null,
+      "price": 169
+    },
+    {
+      "name": "Virgin Mojito",
+      "description": "[Non Alcoholic]",
+      "price": 79
+    },
+    {
+      "name": "Mint Mojito Blast",
+      "description": "[Non Alcoholic]",
+      "price": 129
+    },
+    {
+      "name": "Kiwi Mojito",
+      "description": "[Non Alcoholic]",
+      "price": 109
+    },
+    {
+      "name": "Blue Lagoon Mojito",
+      "description": null,
+      "price": 99
+    },
+    {
+      "name": "Mango Punch",
+      "description": "[Non Alcoholic]",
+      "price": 69
+    },
+    {
+      "name": "Ginger Lime Soda",
+      "description": null,
+      "price": 49
+    },
+    {
+      "name": "Citrus Punch",
+      "description": "[Non alcoholic]",
+      "price": 79
+    },
+    {
+      "name": "Pineapple Punch",
+      "description": "[Non alcoholic]",
+      "price": 69
+    },
+    {
+      "name": "Choco Shake",
+      "description": null,
+      "price": 79
+    },
+    {
+      "name": "Oreo Shake",
+      "description": null,
+      "price": 89
+    },
+    {
+      "name": "Strawberry Shake",
+      "description": null,
+      "price": 79
+    },
+    {
+      "name": "Masala Cold Beverages",
+      "description": null,
+      "price": 49
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": null,
+      "price": 49
+    },
+    {
+      "name": "Mango Lassi",
+      "description": null,
+      "price": 89
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "description": null,
+      "price": 69
+    },
+    {
+      "name": "Ginger Lemon Iced Tea",
+      "description": null,
+      "price": 69
+    },
+    {
+      "name": "Peach Iced Tea",
+      "description": null,
+      "price": 69
+    },
+    {
+      "name": "Hot Coffee",
+      "description": null,
+      "price": 49
+    },
+    {
+      "name": "Cold Coffee",
+      "description": null,
+      "price": 89
+    }
+  ],
+  "special_features": "Delivery Only, No Seating Available",
+  "reviews": [
+    {
+      "star_rating": 1,
+      "reviewer_name": "Vaibhav Maheshwari",
+      "comment": "This is worst quality so hard and so thick how am I supposed to eat",
+      "date": "2 days ago"
+    },
+    {
+      "star_rating": 1,
+      "reviewer_name": "Priyanka Choudhury",
+      "comment": "I had ordered egg thali..the restaurant called me up to say that the thalis are over and they can only send something else instead ..the options they gave were not acceptable but I had to agree to one of those options since they said refund was not possible in any way!! It is really shameful that even though we are paying such exorbitant amounts for very ordinary food, we as customers do not get the options of a refund! Really unprofessional on the part of the restaurant as well as Zomato! Apparently customers are made to feel that Zomato is doing us some favour by delivering food.",
+      "date": "15 days ago"
+    },
+    {
+      "star_rating": 3,
+      "reviewer_name": "Aneeka",
+      "comment": "Chicken soup is very oily and no spinach or leafs in it too much oil",
+      "date": "one month ago"
+    },
+    {
+      "star_rating": 1,
+      "reviewer_name": "351732",
+      "comment": "They said berger combo but instead they sent only one berger and french fries.....this is cheating.....please check whether u packed right or not for delivery",
+      "date": "3 months ago"
+    },
+    {
+      "star_rating": 4,
+      "reviewer_name": "Arijit Das",
+      "comment": "Taste is good.",
+      "date": "4 months ago"
+    }
+  ]
+}

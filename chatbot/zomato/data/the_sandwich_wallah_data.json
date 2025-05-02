@@ -1,0 +1,605 @@
+{
+  "restaurant_name": "The Sandwich Wallah",
+  "location": "Ward 3, Peer Baba Road, Paschim Mednipur, Inda, Kharagpur",
+  "operating_hours": "9am-2pm, 4pm - 12 midnight",
+  "contact_info": {
+    "phone": "+917908613047",
+    "address": "Ward 3, Peer Baba Road, Paschim Mednipur, Inda, Kharagpur"
+  },
+  "menu_items": [
+    {
+      "name": "BBQ Ch Sandwich",
+      "price": 170
+    },
+    {
+      "name": "Cheesy Chicken Sandwich",
+      "description": "Sliced bread stuffed with cheese and chicken.",
+      "price": 150
+    },
+    {
+      "name": "Cheesy Corn Chicken Sandwich",
+      "price": 160
+    },
+    {
+      "name": "Cheesy Corn Sandwich",
+      "description": "Two slices of fresh bread filled with corn, Amul cheese and mozzarella cheese.",
+      "price": 110
+    },
+    {
+      "name": "Chicken Delight Sandwich",
+      "price": 170
+    },
+    {
+      "name": "Chicken Junglee Sandwich",
+      "price": 160
+    },
+    {
+      "name": "Chicken Schezwan Sandwich",
+      "price": 170
+    },
+    {
+      "name": "Chicken Tikka Sandwich",
+      "price": 150
+    },
+    {
+      "name": "Classic Veg Sandwich",
+      "description": "An all-time favorite sandwich filled with a delightful array of fresh vegetables.",
+      "price": 90
+    },
+    {
+      "name": "Crunchy Ch Sandwich",
+      "price": 160
+    },
+    {
+      "name": "Egg Delight Sandwich",
+      "price": 120
+    },
+    {
+      "name": "Fully Mix Veg Sandwich",
+      "price": 140
+    },
+    {
+      "name": "Fully Mixed Chicken Sandwich",
+      "price": 170
+    },
+    {
+      "name": "Just Chicken Sandwich",
+      "price": 120
+    },
+    {
+      "name": "Mayo Corn Chicken Sandwich",
+      "price": 125
+    },
+    {
+      "name": "Mayo Corn Sandwich",
+      "description": "No onion and no garlic.",
+      "price": 95
+    },
+    {
+      "name": "Mushroom Delight Sandwich",
+      "description": "Fried mushrooms with onion, comes with two types of mayonnaise.",
+      "price": 110
+    },
+    {
+      "name": "Mushroom Junglee Sandwich",
+      "price": 120
+    },
+    {
+      "name": "Paneer Herb Sandwich",
+      "price": 125
+    },
+    {
+      "name": "Paneer Junglee Sandwich",
+      "description": "Grilled sandwich stuffed with paneer, onion, capsicum and junglee masala.",
+      "price": 150
+    },
+    {
+      "name": "Sahi Keema Sandwich",
+      "description": "A layer of sahi mutton keema with 25 exotic pieces.",
+      "price": 200
+    },
+    {
+      "name": "Saucy Tandoori Chicken Sandwich",
+      "price": 175
+    },
+    {
+      "name": "Saucy Tandoori Paneer Sandwich",
+      "price": 175
+    },
+    {
+      "nameMultiplier": "Spicy",
+      "name": "Chicken Sandwich",
+      "price": 120
+    },
+    {
+      "name": "TSW Special Non-Veg Club Sandwich",
+      "description": "A club sandwich with a layer of chopped veggies, cheese, egg and chicken.",
+      "price": 229
+    },
+    {
+      "name": "TSW Special Veg Club Sandwich",
+      "description": "A club sandwich with a layer of chopped veggies, cheese, corn and egg.",
+      "price": 199
+    },
+    {
+      "name": "Veggie Delight",
+      "price": 140
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "description": "Pan-seared bun packed with onion, tomato and dips.",
+      "price": 75
+    },
+    {
+      "name": "Chicken Jumbo Burger",
+      "price": 175
+    },
+    {
+      "name": "Chicken Ham Burger",
+      "price": 185
+    },
+    {
+      "name": "Crispy Fish Burger",
+      "price": 119
+    },
+    {
+      "name": "Crunchy BBQ Ch Burger",
+      "description": "Layer of crunchy chicken tossed in BBQ sauce.",
+      "price": 170
+    },
+    {
+      "name": "Crunchy Chicken Burger",
+      "price": 149
+    },
+    {
+      "name": "Crunchy Paneer",
+      "price": 105
+    },
+    {
+      "name": "Green Patty Burger",
+      "price": 85
+    },
+    {
+      "name": "Smashed Ch With Egg Burger",
+      "description": "Comes with a smashed chicken patty, cheddar cheese slice, pan-tossed egg, iceberg lettuce, onion, Amul cheese and mayo.",
+      "price": 189
+    },
+    {
+      "name": "TSW Special Chicken Burger",
+      "description": "A delectable non-veg burger with a layer of cheese, corn, veggies, iceberg lettuce, onion, Amul cheese and mayo.",
+      "price": 220
+    },
+    {
+      "name": "TSW Special Veg Burger",
+      "description": "Our special burger with a layer of cheese corn, crunchy paneer patty, cheese slice, iceberg lettuce, onion, Amul cheese and mayo.",
+      "price": 179
+    },
+    {
+      "name": "Ultimate Chicken Burger",
+      "description": "Burger filled with mayo, tangy iceberg lettuce, onion, Amul cheese and veggies.",
+      "price": 109
+    },
+    {
+      "name": "Veg Jumbo Burger",
+      "description": "Consists of veggies, lettuce, mayo, green patty, aloo tikki and cheese slice.",
+      "price": 130
+    },
+    {
+      "name": "Chicken Mixed Sauce Pasta",
+      "price": 190
+    },
+    {
+      "name": "Chicken Red Sauce Pasta",
+      "price": 175
+    },
+    {
+      "name": "Chicken White Sauce Pasta",
+      "price": 175
+    },
+    {
+      "name": "Veg Pink Sauce Pasta",
+      "price": 175
+    },
+    {
+      "name": "Veg Red Sauce Pasta",
+      "description": "Penne pasta tossed in tangy tomato sauce and cheese.",
+      "price": 169
+    },
+    {
+      "name": "Veg White Sauce Pasta",
+      "description": "Freshly boiled penne pasta tossed with rich cream, cheese and exotic veggies, garnished with oregano.",
+      "price": 169
+    },
+    {
+      "name": "Chicken Corn Fried Maggi",
+      "price": 95
+    },
+    {
+      "name": "Chicken Fried Maggi",
+      "price": 85
+    },
+    {
+      "name": "Corn Fried Maggi",
+      "price": 65
+    },
+    {
+      "name": "Double Egg Fried Maggi",
+      "price": 80
+    },
+    {
+      "name": "Egg Corn Fried Maggi",
+      "price": 80
+    },
+    {
+      "name": "Egg Fried Maggi",
+      "price": 65
+    },
+    {
+      "name": "Plain Fried Maggi",
+      "price": 55
+    },
+    {
+      "name": "Shahi Keema Maggi",
+      "price": 155
+    },
+    {
+      "name": "TSW Special Chicken Maggi",
+      "description": "Loaded with veggies, egg, corn, chicken and a cheese slice on top.",
+      "price": 140
+    },
+    {
+      "name": "Veg Peri Peri Maggi",
+      "price": 65
+    },
+    {
+      "name": "BBQ Ch Popcorn",
+      "description": "12-14 pieces.",
+      "price": 170
+    },
+    {
+      "name": "BBQ Ch Strips",
+      "description": "5 pieces.",
+      "price": 170
+    },
+    {
+      "name": "BBQ Wings",
+      "description": "3 pieces.",
+      "price": 170
+    },
+    {
+      "name": "Cheese Corn Nuggets",
+      "description": "8 pieces. Golden bites filled with creamy cheese and sweet corn.",
+      "price": 109
+    },
+    {
+      "name": "Cheese Fries",
+      "description": "200 grams. French fries tossed with cheese powder and secret masala.",
+      "price": 95
+    },
+    {
+      "name": "Chicken Cheese Bombs",
+      "description": "8 pieces. Delectable chicken and cheese bites.",
+      "price": 119
+    },
+    {
+      "name": "Chicken Pops",
+      "description": "12 pieces.",
+      "price": 99
+    },
+    {
+      "name": "Classic French Fries",
+      "description": "200 grams.",
+      "price": 95
+    },
+    {
+      "name": "Crunchy Chicken Drumstick",
+      "description": "1 piece. Tossed with secret masala.",
+      "price": 89
+    },
+    {
+      "name": "Crunchy Chicken Popcorn",
+      "description": "12 pieces.",
+      "price": 125
+    },
+    {
+      "name": "Crunchy Chicken Strips",
+      "description": "5 pieces.",
+      "price": 129
+    },
+    {
+      "name": "Crunchy Chicken Wing",
+      "description": "1 piece. Tossed with secret masala.",
+      "price": 95
+    },
+    {
+      "name": "Crunchy Chicken Wings",
+      "description": "3 pieces.",
+      "price": 135
+    },
+    {
+      "name": "Crunchy Fries Box",
+      "description": "A box with crunchy chicken popcorn and crunchy potato fries, served with 2 dips.",
+      "price": 219
+    },
+    {
+      "name": "Crunchy Potato Fry",
+      "price": 110
+    },
+    {
+      "name": "Fish Finger",
+      "description": "4 pieces.",
+      "price": 129
+    },
+    {
+      "name": "Garlic Potato Shot",
+      "description": "14 pieces.",
+      "price": 69
+    },
+    {
+      "name": "Kung Fu Fries",
+      "price": 75
+    },
+    {
+      "name": "Lemon Chilli French Fries",
+      "description": "200 grams.",
+      "price": 105
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "description": "200 grams.",
+      "price": 105
+    },
+    {
+      "name": "Potato Cheese Balls",
+      "description": "8 pieces. Mouthwatering cheesy spheres.",
+      "price": 99
+    },
+    {
+      "name": "Schezwan Ch Popcorn",
+      "description": "12-14 pieces.",
+      "price": 180
+    },
+    {
+      "name": "Schezwan Ch Strips",
+      "description": "3 pieces.",
+      "price": 180
+    },
+    {
+      "name": "Schezwan Ch Wings",
+      "description": "3 pieces.",
+      "price": 180
+    },
+    {
+      "name": "Veggie Fingers",
+      "price": 109
+    },
+    {
+      "name": "Chicken Delight Wrap",
+      "price": 150
+    },
+    {
+      "name": "Crunchy Chicken Wrap",
+      "price": 150
+    },
+    {
+      "name": "Pan Roast Chicken Wrap",
+      "price": 150
+    },
+    {
+      "name": "Pan Roast Paneer Wrap",
+      "price": 150
+    },
+    {
+      "name": "Veggie Wrap",
+      "description": "Consists of veggies, lettuce, cheesy spread, mayo and crispy fried potato veggie.",
+      "price": 135
+    },
+    {
+      "name": "Butter Corn",
+      "price": 70
+    },
+    {
+      "name": "Cheese Corn",
+      "price": 85
+    },
+    {
+      "name": "Masala Corn",
+      "price": 95
+    },
+    {
+      "name": "Salt And Pepper Corn",
+      "price": 80
+    },
+    {
+      "name": "Coffee",
+      "description": "Serves 1.",
+      "price": 30
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 100
+    },
+    {
+      "name": "Brownie Milkshake",
+      "price": 120
+    },
+    {
+      "name": "Choco Blast",
+      "price": 100
+    },
+    {
+      "name": "Mango Magic",
+      "price": 100
+    },
+    {
+      "name": "Oreo",
+      "description": "The good old cream and Oreo dunk.",
+      "price": 120
+    },
+    {
+      "name": "Strawberry Crush",
+      "price": 100
+    },
+    {
+      "name": "Vanilla Milkshake",
+      "price": 85
+    },
+    {
+      "name": "Blue Lagoon Mojito",
+      "price": 80
+    },
+    {
+      "name": "Green Apple Mojito",
+      "price": 80
+    },
+    {
+      "name": "Kala Khatta Soda",
+      "price": 80
+    },
+    {
+      "name": "Masala Lemonade (Sprite Base)",
+      "price": 80
+    },
+    {
+      "name": "Tangy Mango Masala",
+      "price": 80
+    },
+    {
+      "name": "Virgin Mojito",
+      "price": 80
+    },
+    {
+      "name": "Watermelon Mojito",
+      "price": 80
+    },
+    {
+      "name": "Water",
+      "description": "1 liter.",
+      "price": 25
+    },
+    {
+      "name": "Water",
+      "description": "500ml.",
+      "price": 15
+    },
+    {
+      "name": "BBQ Plater",
+      "description": "BBQ Ch Sandwich, BBQ Wings, BBQ Ch Popcorn and BBQ Ch Strips.",
+      "price": 299
+    },
+    {
+      "name": "Non-Veg Sandwich Combo 1",
+      "description": "Spicy Ch Sandwich, Ch Fingers and Coke.",
+      "price": 239
+    },
+    {
+      "name": "Non-Veg Sandwich Combo 2",
+      "description": "Cheesy Ch Sandwich, Ch pops and Coke.",
+      "price": 259
+    },
+    {
+      "name": "Non-Veg Snacks Plater",
+      "description": "Ch Pops, Ch Cheese Bomb, Chicken Finger and Fish Fingers.",
+      "price": 179
+    },
+    {
+      "name": "Schezwan Plater",
+      "description": "Schezwan Ch Sandwich, Schezwan Wings, Schezwan Ch Popcorn and Schezwan Ch Strips.",
+      "price": 299
+    },
+    {
+      "name": "Sandwich Combo 1",
+      "description": "Cheese Corn Sandwich, Kung Fu Fries and Coke.",
+      "price": 199
+    },
+    {
+      "name": "Veg Sandwich Combo 2",
+      "description": "Classic Veg Sandwich, Cheese corn nuggets and Coke.",
+      "price": 225
+    },
+    {
+      "name": "Veg Snacks Plater",
+      "description": "100gm French Fries, Veg Finger, Potato Cheese Ball and Potato Pops.",
+      "price": 169
+    },
+    {
+      "name": "Chicken Delight Nachos",
+      "description": "Served with fresh boneless chicken, English veggies, American sweet corn, salsa, liquid cheese, sour cream and jalapenos.",
+      "price": 189
+    },
+    {
+      "name": "Veg Delight Nachos",
+      "description": "Served with fresh English veggies, American sweet corn, baked beans, salsa, liquid cheese, sour cream and jalapenos.",
+      "price": 179
+    },
+    {
+      "name": "Chicken Delight Kulad",
+      "price": 140
+    },
+    {
+      "name": "Chicken Loaded Kulad",
+      "price": 175
+    },
+    {
+      "name": "Veggie Delight Kulad",
+      "price": 135
+    },
+    {
+      "name": "Veggie Loaded Kulad",
+      "price": 169
+    },
+    {
+      "name": "Chicken Roll",
+      "price": 89
+    },
+    {
+      "name": "Double Egg Single Chicken Roll",
+      "price": 119
+    },
+    {
+      "name": "Single Egg Chicken Roll",
+      "price": 99
+    },
+    {
+      "name": "Single Egg Double Chicken Roll",
+      "price": 129
+    },
+    {
+      "name": "Single Egg Roll",
+      "price": 69
+    }
+  ],
+  "special_features": "Takeaway only. No seating available. Tamper-proof packaging. Known for great portions, good taste and value for money.",
+  "reviews": [
+    {
+      "star_rating": "1/5",
+      "reviewer_name": "Jay Godara",
+      "comment": "Sandwich base was stuck to the box by cheese. When I tried to pull it, it broke. Bad experience.",
+      "date": "22 hours ago"
+    },
+    {
+      "star_rating": "2/5",
+      "reviewer_name": "Susneha Saha",
+      "comment": "Bread tasted very stale.",
+      "date": "4 days ago"
+    },
+    {
+      "star_rating": "1/5",
+      "reviewer_name": "Raju Chowdhury",
+      "comment": "Chicken is like rubber.",
+      "date": "5 days ago"
+    },
+    {
+      "star_rating": "3/5",
+      "reviewer_name": "Souvik",
+      "comment": "Very less material inside the roll. Small in size. Not good at taste.",
+      "date": "6 days ago"
+    },
+    {
+      "star_rating": "1/5",
+      "reviewer_name": "Devjeet Haldar",
+      "comment": "Ordered a chicken burger but received a sandwich instead.",
+      "date": "7 days ago"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+cohere
+html2text
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+selenium
+webdriver-manager
